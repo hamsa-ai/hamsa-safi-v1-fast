@@ -5,7 +5,7 @@ Hamsa AI for voice agents, contact centres and VoIP. It processes 10 ms frames o
 **the highest perceived quality of any tested system on Arabic speech**, over both phone lines and wideband VoIP, ahead of
 Krisp, DeepFilterNet3, RNNoise and Hush. On Arabic wideband it is best or tied-best on every metric.
 
-### ▶ [Listen to the samples and explore the interactive benchmark](https://hamsaai.github.io/hamsa-safi-v1/)
+### ▶ [Listen to the samples and explore the interactive benchmark](https://hamsa-ai.github.io/hamsa-safi-v1-fast/)
 
 <p align="center"><img src="docs/assets/overview.svg" alt="DNSMOS OVRL by condition: Hamsa Safi v1 Fast leads in all four conditions" width="900"></p>
 
