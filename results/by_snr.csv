@@ -1,0 +1,141 @@
+set,snr,system,pesq,si_sdr,dnsmos_ovrl
+ar_tel,-5,DeepFilterNet3,1.5927,0.0603,2.0489
+ar_tel,-5,Hush,1.3445,-7.1962,1.6815
+ar_tel,-5,Krisp VIVA Pro v1,1.7202,1.5771,1.8684
+ar_tel,-5,Krisp VIVA Tel v2,1.781,1.8877,1.8597
+ar_tel,-5,Unprocessed,1.4555,-4.427,1.4923
+ar_tel,-5,RNNoise,1.5544,1.1145,2.2114
+ar_tel,-5,Hamsa Safi v1 Fast,1.7534,0.843,2.2524
+ar_tel,0,DeepFilterNet3,1.8976,4.8514,2.3563
+ar_tel,0,Hush,1.6256,0.531,2.0062
+ar_tel,0,Krisp VIVA Pro v1,2.2001,6.3252,2.2192
+ar_tel,0,Krisp VIVA Tel v2,2.2571,7.881,2.2486
+ar_tel,0,Unprocessed,1.6847,1.1792,1.7666
+ar_tel,0,RNNoise,1.838,4.7314,2.4321
+ar_tel,0,Hamsa Safi v1 Fast,2.0713,7.3459,2.4765
+ar_tel,5,DeepFilterNet3,2.216,8.5195,2.5531
+ar_tel,5,Hush,1.8695,3.3177,2.1538
+ar_tel,5,Krisp VIVA Pro v1,2.5137,9.6781,2.481
+ar_tel,5,Krisp VIVA Tel v2,2.5767,11.1032,2.4911
+ar_tel,5,Unprocessed,1.8649,5.4381,1.9299
+ar_tel,5,RNNoise,2.0418,8.3417,2.5982
+ar_tel,5,Hamsa Safi v1 Fast,2.5593,12.2576,2.7475
+ar_tel,10,DeepFilterNet3,2.4691,11.0722,2.7786
+ar_tel,10,Hush,2.148,4.8776,2.336
+ar_tel,10,Krisp VIVA Pro v1,2.9353,12.0144,2.759
+ar_tel,10,Krisp VIVA Tel v2,3.0227,15.0976,2.7802
+ar_tel,10,Unprocessed,2.2315,10.5532,2.2749
+ar_tel,10,RNNoise,2.4057,11.4031,2.7545
+ar_tel,10,Hamsa Safi v1 Fast,2.9181,14.9633,2.9329
+ar_tel,15,DeepFilterNet3,2.7553,13.1489,2.888
+ar_tel,15,Hush,2.2716,4.8797,2.4322
+ar_tel,15,Krisp VIVA Pro v1,3.3041,13.3466,2.9223
+ar_tel,15,Krisp VIVA Tel v2,3.3709,18.3761,2.9348
+ar_tel,15,Unprocessed,2.6998,15.9256,2.5974
+ar_tel,15,RNNoise,2.7597,13.0332,2.9011
+ar_tel,15,Hamsa Safi v1 Fast,3.34,18.8283,3.0476
+ar_wb,-5,DeepFilterNet3,1.3993,2.6427,2.4578
+ar_wb,-5,Hush,1.2033,-0.6545,2.0501
+ar_wb,-5,Krisp VIVA Pro v1,1.3145,2.2323,2.1235
+ar_wb,-5,Krisp VIVA Tel v2,1.2186,-1.7917,1.9001
+ar_wb,-5,Unprocessed,1.0937,-5.7851,1.4274
+ar_wb,-5,RNNoise,1.2077,2.2879,2.4268
+ar_wb,-5,Hamsa Safi v1 Fast,1.3877,3.469,2.6829
+ar_wb,0,DeepFilterNet3,1.6346,7.5639,2.7864
+ar_wb,0,Hush,1.3949,3.8053,2.3937
+ar_wb,0,Krisp VIVA Pro v1,1.6114,7.1818,2.5073
+ar_wb,0,Krisp VIVA Tel v2,1.5225,3.1215,2.3029
+ar_wb,0,Unprocessed,1.138,-0.8138,1.598
+ar_wb,0,RNNoise,1.3743,6.6427,2.6352
+ar_wb,0,Hamsa Safi v1 Fast,1.6733,9.491,2.9561
+ar_wb,5,DeepFilterNet3,1.869,11.3207,3.0193
+ar_wb,5,Hush,1.5436,5.8217,2.5743
+ar_wb,5,Krisp VIVA Pro v1,1.8232,8.5464,2.7981
+ar_wb,5,Krisp VIVA Tel v2,1.682,4.715,2.3993
+ar_wb,5,Unprocessed,1.2144,4.2345,1.886
+ar_wb,5,RNNoise,1.5566,10.1241,2.8508
+ar_wb,5,Hamsa Safi v1 Fast,1.9424,13.0811,3.1366
+ar_wb,10,DeepFilterNet3,2.1718,13.5847,3.2407
+ar_wb,10,Hush,1.7646,7.3289,2.7816
+ar_wb,10,Krisp VIVA Pro v1,2.165,9.8031,3.0785
+ar_wb,10,Krisp VIVA Tel v2,2.0897,11.1902,2.954
+ar_wb,10,Unprocessed,1.4262,9.2844,2.2623
+ar_wb,10,RNNoise,1.7489,11.7237,3.0271
+ar_wb,10,Hamsa Safi v1 Fast,2.2252,15.4664,3.2874
+ar_wb,15,DeepFilterNet3,2.517,16.2171,3.3075
+ar_wb,15,Hush,1.8808,7.3268,2.8547
+ar_wb,15,Krisp VIVA Pro v1,2.6161,11.8124,3.2176
+ar_wb,15,Krisp VIVA Tel v2,2.5596,16.259,3.1471
+ar_wb,15,Unprocessed,1.7902,14.1348,2.6975
+ar_wb,15,RNNoise,2.0962,14.135,3.1327
+ar_wb,15,Hamsa Safi v1 Fast,2.6253,18.9236,3.3124
+en_tel,-5,DeepFilterNet3,1.4938,-5.311,2.0075
+en_tel,-5,Hush,1.3202,-8.5051,1.7153
+en_tel,-5,Krisp VIVA Pro v1,1.5605,-1.8451,1.9188
+en_tel,-5,Krisp VIVA Tel v2,1.6267,-0.873,1.985
+en_tel,-5,Unprocessed,1.5285,-5.7598,1.4865
+en_tel,-5,RNNoise,1.4056,-9.2293,1.9688
+en_tel,-5,Hamsa Safi v1 Fast,1.7943,-3.3292,2.163
+en_tel,0,DeepFilterNet3,1.8015,2.492,2.2453
+en_tel,0,Hush,1.6276,-0.9207,1.9162
+en_tel,0,Krisp VIVA Pro v1,1.9108,5.2732,2.21
+en_tel,0,Krisp VIVA Tel v2,2.0166,6.2421,2.2443
+en_tel,0,Unprocessed,1.7452,-0.6996,1.6901
+en_tel,0,RNNoise,1.4741,-4.3912,2.1248
+en_tel,0,Hamsa Safi v1 Fast,1.8981,4.762,2.3694
+en_tel,5,DeepFilterNet3,1.7442,2.9559,2.2928
+en_tel,5,Hush,1.6948,0.996,2.0298
+en_tel,5,Krisp VIVA Pro v1,1.9714,6.134,2.3301
+en_tel,5,Krisp VIVA Tel v2,2.0393,7.1689,2.3561
+en_tel,5,Unprocessed,1.9279,3.5272,1.7612
+en_tel,5,RNNoise,1.4667,-4.2568,2.1771
+en_tel,5,Hamsa Safi v1 Fast,1.8189,5.4516,2.432
+en_tel,10,DeepFilterNet3,1.7726,4.038,2.4626
+en_tel,10,Hush,1.7047,1.4347,2.1788
+en_tel,10,Krisp VIVA Pro v1,2.0544,6.6488,2.5731
+en_tel,10,Krisp VIVA Tel v2,2.1598,7.5289,2.6019
+en_tel,10,Unprocessed,2.2728,9.5444,2.0309
+en_tel,10,RNNoise,1.489,-4.1588,2.2633
+en_tel,10,Hamsa Safi v1 Fast,1.9998,7.1583,2.719
+en_tel,15,DeepFilterNet3,2.0013,6.5016,2.6915
+en_tel,15,Hush,1.8664,3.5298,2.3093
+en_tel,15,Krisp VIVA Pro v1,2.3284,8.7769,2.7545
+en_tel,15,Krisp VIVA Tel v2,2.4511,10.7593,2.797
+en_tel,15,Unprocessed,2.5631,13.5754,2.3816
+en_tel,15,RNNoise,1.6633,-0.5443,2.4646
+en_tel,15,Hamsa Safi v1 Fast,2.3805,10.5879,2.9221
+en_wb,-5,DeepFilterNet3,1.3345,2.6116,2.7069
+en_wb,-5,Hush,1.2074,-1.9266,2.1401
+en_wb,-5,Krisp VIVA Pro v1,1.2555,1.3579,2.2639
+en_wb,-5,Krisp VIVA Tel v2,1.2136,0.1098,2.173
+en_wb,-5,Unprocessed,1.1343,-5.7256,1.4241
+en_wb,-5,RNNoise,1.199,0.0001,2.5614
+en_wb,-5,Hamsa Safi v1 Fast,1.2885,2.7294,2.82
+en_wb,0,DeepFilterNet3,1.5845,7.776,2.9017
+en_wb,0,Hush,1.3602,3.441,2.5079
+en_wb,0,Krisp VIVA Pro v1,1.4508,6.365,2.6303
+en_wb,0,Krisp VIVA Tel v2,1.4284,4.6105,2.5007
+en_wb,0,Unprocessed,1.138,-0.9354,1.6566
+en_wb,0,RNNoise,1.3174,5.5661,2.7839
+en_wb,0,Hamsa Safi v1 Fast,1.5357,7.8569,3.0834
+en_wb,5,DeepFilterNet3,1.5045,8.694,3.0592
+en_wb,5,Hush,1.3959,3.8884,2.6033
+en_wb,5,Krisp VIVA Pro v1,1.4605,8.4044,2.7315
+en_wb,5,Krisp VIVA Tel v2,1.4425,6.5314,2.665
+en_wb,5,Unprocessed,1.2127,4.1903,1.8012
+en_wb,5,RNNoise,1.3892,5.0446,2.8652
+en_wb,5,Hamsa Safi v1 Fast,1.4884,9.6636,3.1313
+en_wb,10,DeepFilterNet3,1.7074,10.0961,3.1976
+en_wb,10,Hush,1.4835,5.4029,2.8377
+en_wb,10,Krisp VIVA Pro v1,1.641,9.1035,2.982
+en_wb,10,Krisp VIVA Tel v2,1.6348,8.3242,2.9139
+en_wb,10,Unprocessed,1.4806,9.0398,2.0999
+en_wb,10,RNNoise,1.4898,7.4706,3.0685
+en_wb,10,Hamsa Safi v1 Fast,1.6997,10.4379,3.2273
+en_wb,15,DeepFilterNet3,2.0567,12.4945,3.2946
+en_wb,15,Hush,1.7157,7.1514,2.9823
+en_wb,15,Krisp VIVA Pro v1,1.988,10.5308,3.1714
+en_wb,15,Krisp VIVA Tel v2,1.9998,12.3261,3.1545
+en_wb,15,Unprocessed,1.7735,14.0274,2.5228
+en_wb,15,RNNoise,1.7936,9.3363,3.1924
+en_wb,15,Hamsa Safi v1 Fast,2.1105,12.9185,3.3216

@@ -1,0 +1,145 @@
+set,metric,vs,safi_minus_system,ci95_low,ci95_high,safi_win_rate
+ar_tel,pesq,Krisp VIVA Tel v2,-0.0732,-0.1163,-0.0316,0.424
+ar_tel,pesq,Krisp VIVA Pro v1,-0.0062,-0.0529,0.0389,0.536
+ar_tel,pesq,DeepFilterNet3,0.3423,0.2919,0.3956,0.776
+ar_tel,pesq,RNNoise,0.4085,0.36,0.4589,0.86
+ar_tel,pesq,Hush,0.6766,0.6015,0.7525,0.844
+ar_tel,pesq,Unprocessed,0.5412,0.4705,0.6093,0.788
+ar_tel,stoi,Krisp VIVA Tel v2,-0.0294,-0.0402,-0.0196,0.5
+ar_tel,stoi,Krisp VIVA Pro v1,-0.0216,-0.0324,-0.0116,0.532
+ar_tel,stoi,DeepFilterNet3,0.0281,0.0168,0.0397,0.796
+ar_tel,stoi,RNNoise,0.0299,0.0178,0.0417,0.824
+ar_tel,stoi,Hush,0.132,0.1167,0.1481,0.928
+ar_tel,stoi,Unprocessed,0.03,0.0164,0.0433,0.812
+ar_tel,si_sdr,Krisp VIVA Tel v2,-0.0215,-0.5817,0.475,0.684
+ar_tel,si_sdr,Krisp VIVA Pro v1,2.2593,1.581,2.8972,0.792
+ar_tel,si_sdr,DeepFilterNet3,3.3171,2.7504,3.8873,0.86
+ar_tel,si_sdr,RNNoise,3.1228,2.4608,3.8274,0.848
+ar_tel,si_sdr,Hush,9.5656,8.7026,10.3794,0.936
+ar_tel,si_sdr,Unprocessed,5.1138,4.4237,5.793,0.88
+ar_tel,dnsmos_sig,Krisp VIVA Tel v2,0.2413,0.2054,0.2777,0.848
+ar_tel,dnsmos_sig,Krisp VIVA Pro v1,0.2531,0.2145,0.2899,0.844
+ar_tel,dnsmos_sig,DeepFilterNet3,0.1385,0.1018,0.1737,0.796
+ar_tel,dnsmos_sig,RNNoise,0.0625,0.0271,0.0996,0.68
+ar_tel,dnsmos_sig,Hush,0.4701,0.4201,0.522,0.928
+ar_tel,dnsmos_sig,Unprocessed,0.2707,0.1941,0.3533,0.58
+ar_tel,dnsmos_bak,Krisp VIVA Tel v2,0.0826,0.0636,0.1021,0.732
+ar_tel,dnsmos_bak,Krisp VIVA Pro v1,0.0979,0.0795,0.1171,0.764
+ar_tel,dnsmos_bak,DeepFilterNet3,0.1159,0.0947,0.1384,0.748
+ar_tel,dnsmos_bak,RNNoise,0.1762,0.1497,0.2034,0.832
+ar_tel,dnsmos_bak,Hush,0.3994,0.3705,0.4296,0.98
+ar_tel,dnsmos_bak,Unprocessed,1.6967,1.607,1.7856,1.0
+ar_tel,dnsmos_ovrl,Krisp VIVA Tel v2,0.2285,0.195,0.2607,0.852
+ar_tel,dnsmos_ovrl,Krisp VIVA Pro v1,0.2414,0.2061,0.2759,0.844
+ar_tel,dnsmos_ovrl,DeepFilterNet3,0.1664,0.1356,0.1963,0.852
+ar_tel,dnsmos_ovrl,RNNoise,0.1119,0.0798,0.1451,0.756
+ar_tel,dnsmos_ovrl,Hush,0.5695,0.5229,0.6168,0.944
+ar_tel,dnsmos_ovrl,Unprocessed,0.6792,0.6242,0.7302,0.964
+ar_wb,pesq,Krisp VIVA Tel v2,0.1563,0.1005,0.2102,0.672
+ar_wb,pesq,Krisp VIVA Pro v1,0.0648,0.0369,0.0898,0.612
+ar_wb,pesq,DeepFilterNet3,0.0524,0.0213,0.0887,0.552
+ar_wb,pesq,RNNoise,0.3741,0.3438,0.4043,0.968
+ar_wb,pesq,Hush,0.4133,0.3662,0.4596,0.952
+ar_wb,pesq,Unprocessed,0.6383,0.5862,0.6947,0.956
+ar_wb,stoi,Krisp VIVA Tel v2,0.0952,0.0765,0.1161,0.84
+ar_wb,stoi,Krisp VIVA Pro v1,0.0057,-0.0021,0.0124,0.748
+ar_wb,stoi,DeepFilterNet3,0.021,0.0165,0.0253,0.856
+ar_wb,stoi,RNNoise,0.022,0.0154,0.0282,0.904
+ar_wb,stoi,Hush,0.085,0.0772,0.0928,0.972
+ar_wb,stoi,Unprocessed,0.0835,0.0719,0.0957,0.94
+ar_wb,si_sdr,Krisp VIVA Tel v2,5.3874,4.5232,6.2667,0.748
+ar_wb,si_sdr,Krisp VIVA Pro v1,4.171,3.6848,4.6549,0.912
+ar_wb,si_sdr,DeepFilterNet3,1.8204,1.5202,2.1289,0.796
+ar_wb,si_sdr,RNNoise,3.1035,2.7618,3.4052,0.956
+ar_wb,si_sdr,Hush,7.3606,6.8157,7.9181,0.976
+ar_wb,si_sdr,Unprocessed,7.8753,7.1531,8.5472,0.964
+ar_wb,dnsmos_sig,Krisp VIVA Tel v2,0.538,0.4779,0.5991,0.948
+ar_wb,dnsmos_sig,Krisp VIVA Pro v1,0.3396,0.3014,0.3804,0.928
+ar_wb,dnsmos_sig,DeepFilterNet3,0.0656,0.0461,0.0846,0.62
+ar_wb,dnsmos_sig,RNNoise,0.1747,0.1473,0.1998,0.888
+ar_wb,dnsmos_sig,Hush,0.2976,0.2598,0.3372,0.916
+ar_wb,dnsmos_sig,Unprocessed,0.6585,0.5557,0.7585,0.812
+ar_wb,dnsmos_bak,Krisp VIVA Tel v2,0.1385,0.1111,0.1665,0.84
+ar_wb,dnsmos_bak,Krisp VIVA Pro v1,0.0867,0.0613,0.1111,0.788
+ar_wb,dnsmos_bak,DeepFilterNet3,0.1114,0.0819,0.1416,0.78
+ar_wb,dnsmos_bak,RNNoise,0.2476,0.2098,0.286,0.924
+ar_wb,dnsmos_bak,Hush,0.6664,0.6092,0.7244,0.992
+ar_wb,dnsmos_bak,Unprocessed,1.9561,1.8707,2.043,1.0
+ar_wb,dnsmos_ovrl,Krisp VIVA Tel v2,0.5344,0.4754,0.5954,0.94
+ar_wb,dnsmos_ovrl,Krisp VIVA Pro v1,0.3301,0.2941,0.3676,0.928
+ar_wb,dnsmos_ovrl,DeepFilterNet3,0.1127,0.0888,0.1378,0.756
+ar_wb,dnsmos_ovrl,RNNoise,0.2606,0.2324,0.2915,0.932
+ar_wb,dnsmos_ovrl,Hush,0.5442,0.5091,0.5827,0.988
+ar_wb,dnsmos_ovrl,Unprocessed,1.1008,1.0406,1.1657,1.0
+en_tel,pesq,Krisp VIVA Tel v2,-0.08,-0.1328,-0.0222,0.271
+en_tel,pesq,Krisp VIVA Pro v1,0.0134,-0.0382,0.0715,0.399
+en_tel,pesq,DeepFilterNet3,0.2147,0.1559,0.2805,0.665
+en_tel,pesq,RNNoise,0.4771,0.391,0.5688,0.883
+en_tel,pesq,Hush,0.3348,0.2614,0.4085,0.713
+en_tel,pesq,Unprocessed,-0.0271,-0.1292,0.0791,0.457
+en_tel,stoi,Krisp VIVA Tel v2,-0.0686,-0.0806,-0.0578,0.117
+en_tel,stoi,Krisp VIVA Pro v1,-0.0579,-0.0696,-0.0473,0.213
+en_tel,stoi,DeepFilterNet3,0.0344,0.0219,0.0461,0.745
+en_tel,stoi,RNNoise,0.1796,0.1514,0.2109,0.888
+en_tel,stoi,Hush,0.0779,0.0615,0.0942,0.782
+en_tel,stoi,Unprocessed,-0.0615,-0.0803,-0.043,0.372
+en_tel,si_sdr,Krisp VIVA Tel v2,-1.2494,-1.8668,-0.6526,0.457
+en_tel,si_sdr,Krisp VIVA Pro v1,-0.0846,-0.723,0.5129,0.574
+en_tel,si_sdr,DeepFilterNet3,2.7822,2.161,3.4713,0.856
+en_tel,si_sdr,RNNoise,9.4232,7.9908,10.8181,0.904
+en_tel,si_sdr,Hush,5.611,4.7416,6.5401,0.872
+en_tel,si_sdr,Unprocessed,0.9266,-0.3968,2.29,0.601
+en_tel,dnsmos_sig,Krisp VIVA Tel v2,0.1225,0.0854,0.1602,0.755
+en_tel,dnsmos_sig,Krisp VIVA Pro v1,0.162,0.1227,0.2023,0.84
+en_tel,dnsmos_sig,DeepFilterNet3,0.1627,0.1202,0.2042,0.824
+en_tel,dnsmos_sig,RNNoise,0.2849,0.216,0.3553,0.793
+en_tel,dnsmos_sig,Hush,0.4164,0.3658,0.4715,0.915
+en_tel,dnsmos_sig,Unprocessed,0.2043,0.1061,0.3066,0.441
+en_tel,dnsmos_bak,Krisp VIVA Tel v2,0.1152,0.0988,0.1317,0.936
+en_tel,dnsmos_bak,Krisp VIVA Pro v1,0.1328,0.1149,0.1521,0.947
+en_tel,dnsmos_bak,DeepFilterNet3,0.0912,0.0742,0.1096,0.856
+en_tel,dnsmos_bak,RNNoise,0.1683,0.1481,0.1896,0.973
+en_tel,dnsmos_bak,Hush,0.3577,0.3342,0.3807,0.995
+en_tel,dnsmos_bak,Unprocessed,2.0037,1.9145,2.0985,1.0
+en_tel,dnsmos_ovrl,Krisp VIVA Tel v2,0.1242,0.0901,0.1561,0.782
+en_tel,dnsmos_ovrl,Krisp VIVA Pro v1,0.1639,0.1268,0.1994,0.84
+en_tel,dnsmos_ovrl,DeepFilterNet3,0.1805,0.1418,0.216,0.846
+en_tel,dnsmos_ovrl,RNNoise,0.3199,0.2558,0.3826,0.819
+en_tel,dnsmos_ovrl,Hush,0.4903,0.4443,0.5358,0.931
+en_tel,dnsmos_ovrl,Unprocessed,0.6514,0.5875,0.7151,0.936
+en_wb,pesq,Krisp VIVA Tel v2,0.0807,0.0472,0.1168,0.649
+en_wb,pesq,Krisp VIVA Pro v1,0.0651,0.041,0.0903,0.665
+en_wb,pesq,DeepFilterNet3,-0.0133,-0.0345,0.0077,0.415
+en_wb,pesq,RNNoise,0.1859,0.1415,0.2263,0.888
+en_wb,pesq,Hush,0.1908,0.1461,0.237,0.745
+en_wb,pesq,Unprocessed,0.2767,0.1997,0.351,0.777
+en_wb,stoi,Krisp VIVA Tel v2,0.034,0.0166,0.0544,0.617
+en_wb,stoi,Krisp VIVA Pro v1,0.0004,-0.0053,0.0059,0.596
+en_wb,stoi,DeepFilterNet3,-0.003,-0.0083,0.0021,0.564
+en_wb,stoi,RNNoise,0.0358,0.0265,0.047,0.771
+en_wb,stoi,Hush,0.0586,0.0492,0.0679,0.835
+en_wb,stoi,Unprocessed,0.0285,0.0115,0.0458,0.638
+en_wb,si_sdr,Krisp VIVA Tel v2,2.3514,1.7112,3.0272,0.713
+en_wb,si_sdr,Krisp VIVA Pro v1,1.5658,1.1856,1.9592,0.862
+en_wb,si_sdr,DeepFilterNet3,0.3869,0.1459,0.6385,0.527
+en_wb,si_sdr,RNNoise,3.2373,2.7535,3.7535,0.968
+en_wb,si_sdr,Hush,5.127,4.6424,5.6013,0.995
+en_wb,si_sdr,Unprocessed,4.6494,3.6522,5.6694,0.761
+en_wb,dnsmos_sig,Krisp VIVA Tel v2,0.434,0.3834,0.4859,0.963
+en_wb,dnsmos_sig,Krisp VIVA Pro v1,0.3684,0.3256,0.4133,0.973
+en_wb,dnsmos_sig,DeepFilterNet3,0.0452,0.0242,0.0662,0.697
+en_wb,dnsmos_sig,RNNoise,0.1701,0.1427,0.1981,0.91
+en_wb,dnsmos_sig,Hush,0.2898,0.2489,0.3306,0.926
+en_wb,dnsmos_sig,Unprocessed,0.7473,0.6221,0.8728,0.771
+en_wb,dnsmos_bak,Krisp VIVA Tel v2,0.1351,0.1084,0.1615,0.91
+en_wb,dnsmos_bak,Krisp VIVA Pro v1,0.098,0.0753,0.1208,0.867
+en_wb,dnsmos_bak,DeepFilterNet3,0.0893,0.0617,0.1208,0.809
+en_wb,dnsmos_bak,RNNoise,0.1622,0.1355,0.1899,0.915
+en_wb,dnsmos_bak,Hush,0.5652,0.5103,0.6285,0.989
+en_wb,dnsmos_bak,Unprocessed,2.1255,2.0358,2.218,1.0
+en_wb,dnsmos_ovrl,Krisp VIVA Tel v2,0.4374,0.3886,0.4876,0.968
+en_wb,dnsmos_ovrl,Krisp VIVA Pro v1,0.3626,0.3239,0.4051,0.947
+en_wb,dnsmos_ovrl,DeepFilterNet3,0.0854,0.0593,0.112,0.761
+en_wb,dnsmos_ovrl,RNNoise,0.2233,0.1945,0.2537,0.931
+en_wb,dnsmos_ovrl,Hush,0.5039,0.4648,0.5469,0.984
+en_wb,dnsmos_ovrl,Unprocessed,1.2185,1.1479,1.29,1.0

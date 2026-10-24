@@ -1,0 +1,730 @@
+{
+ "sets": [
+  {
+   "key": "ar_tel",
+   "title": "Arabic \u00b7 telephone",
+   "sub": "8 kHz G.711 phone channel"
+  },
+  {
+   "key": "ar_wb",
+   "title": "Arabic \u00b7 wideband",
+   "sub": "16 kHz VoIP / WebRTC"
+  },
+  {
+   "key": "en_tel",
+   "title": "English \u00b7 telephone",
+   "sub": "8 kHz G.711 phone channel"
+  },
+  {
+   "key": "en_wb",
+   "title": "English \u00b7 wideband",
+   "sub": "16 kHz VoIP / WebRTC"
+  }
+ ],
+ "systems": [
+  {
+   "key": "safi",
+   "name": "Hamsa Safi v1 Fast"
+  },
+  {
+   "key": "krisp_tel",
+   "name": "Krisp VIVA Tel v2"
+  },
+  {
+   "key": "krisp_pro",
+   "name": "Krisp VIVA Pro v1"
+  },
+  {
+   "key": "dfn3",
+   "name": "DeepFilterNet3"
+  },
+  {
+   "key": "rnnoise",
+   "name": "RNNoise"
+  },
+  {
+   "key": "hush",
+   "name": "Hush"
+  },
+  {
+   "key": "noisy",
+   "name": "Unprocessed"
+  }
+ ],
+ "metrics": [
+  {
+   "key": "pesq",
+   "label": "PESQ",
+   "desc": "ITU-T P.862 perceptual quality (NB on phone sets, WB on wideband)"
+  },
+  {
+   "key": "stoi",
+   "label": "STOI",
+   "desc": "short-time objective intelligibility"
+  },
+  {
+   "key": "si_sdr",
+   "label": "SI-SDR (dB)",
+   "desc": "scale-invariant signal-to-distortion ratio"
+  },
+  {
+   "key": "dnsmos_sig",
+   "label": "DNSMOS SIG",
+   "desc": "speech-signal quality (P.835, reference-free)"
+  },
+  {
+   "key": "dnsmos_bak",
+   "label": "DNSMOS BAK",
+   "desc": "background-noise quality (P.835)"
+  },
+  {
+   "key": "dnsmos_ovrl",
+   "label": "DNSMOS OVRL",
+   "desc": "overall perceived quality (P.835)"
+  }
+ ],
+ "summary": {
+  "ar_tel": {
+   "safi": {
+    "pesq": 2.5284,
+    "stoi": 0.822,
+    "si_sdr": 10.8476,
+    "dnsmos_sig": 2.9646,
+    "dnsmos_bak": 3.9764,
+    "dnsmos_ovrl": 2.6914
+   },
+   "krisp_tel": {
+    "pesq": 2.6017,
+    "stoi": 0.8515,
+    "si_sdr": 10.8691,
+    "dnsmos_sig": 2.7233,
+    "dnsmos_bak": 3.8938,
+    "dnsmos_ovrl": 2.4629
+   },
+   "krisp_pro": {
+    "pesq": 2.5347,
+    "stoi": 0.8437,
+    "si_sdr": 8.5883,
+    "dnsmos_sig": 2.7115,
+    "dnsmos_bak": 3.8784,
+    "dnsmos_ovrl": 2.45
+   },
+   "dfn3": {
+    "pesq": 2.1861,
+    "stoi": 0.7939,
+    "si_sdr": 7.5305,
+    "dnsmos_sig": 2.826,
+    "dnsmos_bak": 3.8604,
+    "dnsmos_ovrl": 2.525
+   },
+   "rnnoise": {
+    "pesq": 2.1199,
+    "stoi": 0.7922,
+    "si_sdr": 7.7248,
+    "dnsmos_sig": 2.902,
+    "dnsmos_bak": 3.8001,
+    "dnsmos_ovrl": 2.5795
+   },
+   "hush": {
+    "pesq": 1.8518,
+    "stoi": 0.69,
+    "si_sdr": 1.282,
+    "dnsmos_sig": 2.4945,
+    "dnsmos_bak": 3.577,
+    "dnsmos_ovrl": 2.1219
+   },
+   "noisy": {
+    "pesq": 1.9873,
+    "stoi": 0.792,
+    "si_sdr": 5.7338,
+    "dnsmos_sig": 2.6938,
+    "dnsmos_bak": 2.2797,
+    "dnsmos_ovrl": 2.0122
+   }
+  },
+  "ar_wb": {
+   "safi": {
+    "pesq": 1.9708,
+    "stoi": 0.878,
+    "si_sdr": 12.0862,
+    "dnsmos_sig": 3.35,
+    "dnsmos_bak": 4.0228,
+    "dnsmos_ovrl": 3.0751
+   },
+   "krisp_tel": {
+    "pesq": 1.8145,
+    "stoi": 0.7828,
+    "si_sdr": 6.6988,
+    "dnsmos_sig": 2.812,
+    "dnsmos_bak": 3.8844,
+    "dnsmos_ovrl": 2.5407
+   },
+   "krisp_pro": {
+    "pesq": 1.906,
+    "stoi": 0.8723,
+    "si_sdr": 7.9152,
+    "dnsmos_sig": 3.0104,
+    "dnsmos_bak": 3.9362,
+    "dnsmos_ovrl": 2.745
+   },
+   "dfn3": {
+    "pesq": 1.9183,
+    "stoi": 0.857,
+    "si_sdr": 10.2658,
+    "dnsmos_sig": 3.2844,
+    "dnsmos_bak": 3.9115,
+    "dnsmos_ovrl": 2.9623
+   },
+   "rnnoise": {
+    "pesq": 1.5967,
+    "stoi": 0.856,
+    "si_sdr": 8.9827,
+    "dnsmos_sig": 3.1753,
+    "dnsmos_bak": 3.7752,
+    "dnsmos_ovrl": 2.8145
+   },
+   "hush": {
+    "pesq": 1.5575,
+    "stoi": 0.793,
+    "si_sdr": 4.7256,
+    "dnsmos_sig": 3.0524,
+    "dnsmos_bak": 3.3565,
+    "dnsmos_ovrl": 2.5309
+   },
+   "noisy": {
+    "pesq": 1.3325,
+    "stoi": 0.7945,
+    "si_sdr": 4.211,
+    "dnsmos_sig": 2.6916,
+    "dnsmos_bak": 2.0667,
+    "dnsmos_ovrl": 1.9742
+   }
+  },
+  "en_tel": {
+   "safi": {
+    "pesq": 1.9761,
+    "stoi": 0.6479,
+    "si_sdr": 4.8841,
+    "dnsmos_sig": 2.7793,
+    "dnsmos_bak": 4.0532,
+    "dnsmos_ovrl": 2.5179
+   },
+   "krisp_tel": {
+    "pesq": 2.0561,
+    "stoi": 0.7166,
+    "si_sdr": 6.1336,
+    "dnsmos_sig": 2.6568,
+    "dnsmos_bak": 3.938,
+    "dnsmos_ovrl": 2.3937
+   },
+   "krisp_pro": {
+    "pesq": 1.9627,
+    "stoi": 0.7059,
+    "si_sdr": 4.9687,
+    "dnsmos_sig": 2.6173,
+    "dnsmos_bak": 3.9203,
+    "dnsmos_ovrl": 2.354
+   },
+   "dfn3": {
+    "pesq": 1.7614,
+    "stoi": 0.6135,
+    "si_sdr": 2.1019,
+    "dnsmos_sig": 2.6166,
+    "dnsmos_bak": 3.962,
+    "dnsmos_ovrl": 2.3374
+   },
+   "rnnoise": {
+    "pesq": 1.4989,
+    "stoi": 0.4683,
+    "si_sdr": -4.5391,
+    "dnsmos_sig": 2.4944,
+    "dnsmos_bak": 3.8848,
+    "dnsmos_ovrl": 2.198
+   },
+   "hush": {
+    "pesq": 1.6412,
+    "stoi": 0.5701,
+    "si_sdr": -0.7268,
+    "dnsmos_sig": 2.3629,
+    "dnsmos_bak": 3.6955,
+    "dnsmos_ovrl": 2.0276
+   },
+   "noisy": {
+    "pesq": 2.0031,
+    "stoi": 0.7095,
+    "si_sdr": 3.9575,
+    "dnsmos_sig": 2.5749,
+    "dnsmos_bak": 2.0494,
+    "dnsmos_ovrl": 1.8665
+   }
+  },
+  "en_wb": {
+   "safi": {
+    "pesq": 1.6216,
+    "stoi": 0.7369,
+    "si_sdr": 8.6898,
+    "dnsmos_sig": 3.374,
+    "dnsmos_bak": 4.0856,
+    "dnsmos_ovrl": 3.1151
+   },
+   "krisp_tel": {
+    "pesq": 1.5409,
+    "stoi": 0.7029,
+    "si_sdr": 6.3384,
+    "dnsmos_sig": 2.94,
+    "dnsmos_bak": 3.9505,
+    "dnsmos_ovrl": 2.6777
+   },
+   "krisp_pro": {
+    "pesq": 1.5564,
+    "stoi": 0.7365,
+    "si_sdr": 7.124,
+    "dnsmos_sig": 3.0056,
+    "dnsmos_bak": 3.9876,
+    "dnsmos_ovrl": 2.7524
+   },
+   "dfn3": {
+    "pesq": 1.6349,
+    "stoi": 0.7399,
+    "si_sdr": 8.303,
+    "dnsmos_sig": 3.3288,
+    "dnsmos_bak": 3.9963,
+    "dnsmos_ovrl": 3.0297
+   },
+   "rnnoise": {
+    "pesq": 1.4356,
+    "stoi": 0.7011,
+    "si_sdr": 5.4525,
+    "dnsmos_sig": 3.2039,
+    "dnsmos_bak": 3.9234,
+    "dnsmos_ovrl": 2.8918
+   },
+   "hush": {
+    "pesq": 1.4308,
+    "stoi": 0.6783,
+    "si_sdr": 3.5628,
+    "dnsmos_sig": 3.0842,
+    "dnsmos_bak": 3.5204,
+    "dnsmos_ovrl": 2.6111
+   },
+   "noisy": {
+    "pesq": 1.3449,
+    "stoi": 0.7084,
+    "si_sdr": 4.0404,
+    "dnsmos_sig": 2.6267,
+    "dnsmos_bak": 1.9601,
+    "dnsmos_ovrl": 1.8966
+   }
+  }
+ },
+ "n": {
+  "ar_tel": 250,
+  "ar_wb": 250,
+  "en_tel": 188,
+  "en_wb": 188
+ },
+ "samples": [
+  {
+   "id": "ar_tel-ar197",
+   "set": "ar_tel",
+   "snr": 5,
+   "noise": "vacuum cleaner",
+   "scores": {
+    "safi": {
+     "pesq": 2.52,
+     "dnsmos": 2.78
+    },
+    "krisp_tel": {
+     "pesq": 1.96,
+     "dnsmos": 2.02
+    },
+    "krisp_pro": {
+     "pesq": 2.2,
+     "dnsmos": 2.17
+    },
+    "dfn3": {
+     "pesq": 2.31,
+     "dnsmos": 2.41
+    },
+    "rnnoise": {
+     "pesq": 1.72,
+     "dnsmos": 2.23
+    },
+    "hush": {
+     "pesq": 1.95,
+     "dnsmos": 2.27
+    },
+    "noisy": {
+     "pesq": 1.49,
+     "dnsmos": 1.23
+    }
+   }
+  },
+  {
+   "id": "ar_tel-ar228",
+   "set": "ar_tel",
+   "snr": 10,
+   "noise": "copy machine",
+   "scores": {
+    "safi": {
+     "pesq": 2.85,
+     "dnsmos": 2.94
+    },
+    "krisp_tel": {
+     "pesq": 2.34,
+     "dnsmos": 2.49
+    },
+    "krisp_pro": {
+     "pesq": 2.5,
+     "dnsmos": 2.47
+    },
+    "dfn3": {
+     "pesq": 2.38,
+     "dnsmos": 2.67
+    },
+    "rnnoise": {
+     "pesq": 1.88,
+     "dnsmos": 2.48
+    },
+    "hush": {
+     "pesq": 2.0,
+     "dnsmos": 2.48
+    },
+    "noisy": {
+     "pesq": 1.67,
+     "dnsmos": 1.25
+    }
+   }
+  },
+  {
+   "id": "ar_tel-ar112",
+   "set": "ar_tel",
+   "snr": 5,
+   "noise": "eating / munching",
+   "scores": {
+    "safi": {
+     "pesq": 3.39,
+     "dnsmos": 3.17
+    },
+    "krisp_tel": {
+     "pesq": 3.01,
+     "dnsmos": 2.84
+    },
+    "krisp_pro": {
+     "pesq": 2.79,
+     "dnsmos": 3.02
+    },
+    "dfn3": {
+     "pesq": 1.96,
+     "dnsmos": 2.95
+    },
+    "rnnoise": {
+     "pesq": 2.04,
+     "dnsmos": 3.16
+    },
+    "hush": {
+     "pesq": 1.78,
+     "dnsmos": 2.58
+    },
+    "noisy": {
+     "pesq": 1.76,
+     "dnsmos": 2.71
+    }
+   }
+  },
+  {
+   "id": "ar_tel-ar186",
+   "set": "ar_tel",
+   "snr": 0,
+   "noise": "door slams",
+   "scores": {
+    "safi": {
+     "pesq": 2.76,
+     "dnsmos": 3.08
+    },
+    "krisp_tel": {
+     "pesq": 2.45,
+     "dnsmos": 2.8
+    },
+    "krisp_pro": {
+     "pesq": 2.67,
+     "dnsmos": 2.83
+    },
+    "dfn3": {
+     "pesq": 1.72,
+     "dnsmos": 2.94
+    },
+    "rnnoise": {
+     "pesq": 2.28,
+     "dnsmos": 2.79
+    },
+    "hush": {
+     "pesq": 2.0,
+     "dnsmos": 2.69
+    },
+    "noisy": {
+     "pesq": 1.79,
+     "dnsmos": 2.3
+    }
+   }
+  },
+  {
+   "id": "ar_wb-ar222",
+   "set": "ar_wb",
+   "snr": 5,
+   "noise": "door slams",
+   "scores": {
+    "safi": {
+     "pesq": 2.41,
+     "dnsmos": 3.32
+    },
+    "krisp_tel": {
+     "pesq": 1.07,
+     "dnsmos": 1.96
+    },
+    "krisp_pro": {
+     "pesq": 2.08,
+     "dnsmos": 3.29
+    },
+    "dfn3": {
+     "pesq": 1.84,
+     "dnsmos": 3.31
+    },
+    "rnnoise": {
+     "pesq": 1.84,
+     "dnsmos": 3.19
+    },
+    "hush": {
+     "pesq": 1.61,
+     "dnsmos": 2.32
+    },
+    "noisy": {
+     "pesq": 1.18,
+     "dnsmos": 2.57
+    }
+   }
+  },
+  {
+   "id": "ar_wb-ar212",
+   "set": "ar_wb",
+   "snr": 5,
+   "noise": "neighbour talking",
+   "scores": {
+    "safi": {
+     "pesq": 1.8,
+     "dnsmos": 3.36
+    },
+    "krisp_tel": {
+     "pesq": 1.12,
+     "dnsmos": 2.42
+    },
+    "krisp_pro": {
+     "pesq": 1.48,
+     "dnsmos": 3.14
+    },
+    "dfn3": {
+     "pesq": 1.57,
+     "dnsmos": 2.89
+    },
+    "rnnoise": {
+     "pesq": 1.5,
+     "dnsmos": 2.55
+    },
+    "hush": {
+     "pesq": 1.5,
+     "dnsmos": 2.87
+    },
+    "noisy": {
+     "pesq": 1.2,
+     "dnsmos": 2.63
+    }
+   }
+  },
+  {
+   "id": "ar_wb-ar011",
+   "set": "ar_wb",
+   "snr": 0,
+   "noise": "babble (crowd)",
+   "scores": {
+    "safi": {
+     "pesq": 1.62,
+     "dnsmos": 2.92
+    },
+    "krisp_tel": {
+     "pesq": 1.1,
+     "dnsmos": 1.79
+    },
+    "krisp_pro": {
+     "pesq": 1.6,
+     "dnsmos": 2.42
+    },
+    "dfn3": {
+     "pesq": 1.37,
+     "dnsmos": 2.63
+    },
+    "rnnoise": {
+     "pesq": 1.27,
+     "dnsmos": 2.86
+    },
+    "hush": {
+     "pesq": 1.17,
+     "dnsmos": 2.18
+    },
+    "noisy": {
+     "pesq": 1.21,
+     "dnsmos": 1.94
+    }
+   }
+  },
+  {
+   "id": "ar_wb-ar151",
+   "set": "ar_wb",
+   "snr": 0,
+   "noise": "keyboard typing",
+   "scores": {
+    "safi": {
+     "pesq": 1.92,
+     "dnsmos": 3.27
+    },
+    "krisp_tel": {
+     "pesq": 1.22,
+     "dnsmos": 2.22
+    },
+    "krisp_pro": {
+     "pesq": 1.65,
+     "dnsmos": 2.89
+    },
+    "dfn3": {
+     "pesq": 1.82,
+     "dnsmos": 3.27
+    },
+    "rnnoise": {
+     "pesq": 1.43,
+     "dnsmos": 3.03
+    },
+    "hush": {
+     "pesq": 1.55,
+     "dnsmos": 2.95
+    },
+    "noisy": {
+     "pesq": 1.09,
+     "dnsmos": 1.72
+    }
+   }
+  },
+  {
+   "id": "en_tel-en051",
+   "set": "en_tel",
+   "snr": 0,
+   "noise": "door slams",
+   "scores": {
+    "safi": {
+     "pesq": 3.22,
+     "dnsmos": 2.88
+    },
+    "krisp_tel": {
+     "pesq": 2.92,
+     "dnsmos": 2.5
+    },
+    "krisp_pro": {
+     "pesq": 2.86,
+     "dnsmos": 2.49
+    },
+    "dfn3": {
+     "pesq": 2.75,
+     "dnsmos": 2.68
+    },
+    "rnnoise": {
+     "pesq": 1.73,
+     "dnsmos": 2.42
+    },
+    "hush": {
+     "pesq": 2.74,
+     "dnsmos": 2.64
+    },
+    "noisy": {
+     "pesq": 2.52,
+     "dnsmos": 2.16
+    }
+   }
+  },
+  {
+   "id": "en_wb-en146",
+   "set": "en_wb",
+   "snr": 0,
+   "noise": "babble (crowd)",
+   "scores": {
+    "safi": {
+     "pesq": 1.38,
+     "dnsmos": 2.85
+    },
+    "krisp_tel": {
+     "pesq": 1.15,
+     "dnsmos": 1.79
+    },
+    "krisp_pro": {
+     "pesq": 1.2,
+     "dnsmos": 1.76
+    },
+    "dfn3": {
+     "pesq": 1.37,
+     "dnsmos": 2.83
+    },
+    "rnnoise": {
+     "pesq": 1.16,
+     "dnsmos": 2.12
+    },
+    "hush": {
+     "pesq": 1.27,
+     "dnsmos": 2.33
+    },
+    "noisy": {
+     "pesq": 1.11,
+     "dnsmos": 1.07
+    }
+   }
+  },
+  {
+   "id": "en_wb-en016",
+   "set": "en_wb",
+   "snr": 0,
+   "noise": "keyboard typing",
+   "scores": {
+    "safi": {
+     "pesq": 2.37,
+     "dnsmos": 3.31
+    },
+    "krisp_tel": {
+     "pesq": 1.69,
+     "dnsmos": 2.93
+    },
+    "krisp_pro": {
+     "pesq": 1.81,
+     "dnsmos": 2.97
+    },
+    "dfn3": {
+     "pesq": 1.88,
+     "dnsmos": 3.13
+    },
+    "rnnoise": {
+     "pesq": 1.7,
+     "dnsmos": 3.12
+    },
+    "hush": {
+     "pesq": 1.4,
+     "dnsmos": 2.89
+    },
+    "noisy": {
+     "pesq": 1.11,
+     "dnsmos": 2.38
+    }
+   }
+  }
+ ],
+ "win": {
+  "ar_tel": 85,
+  "ar_wb": 94,
+  "en_tel": 78,
+  "en_wb": 97
+ }
+}
