@@ -1,0 +1,15 @@
+set,system,dnsmos_sig,dnsmos_bak,dnsmos_ovrl
+ar_real,DeepFilterNet3,3.2449,3.9296,2.9302
+ar_real,Hush,3.0056,3.8451,2.668
+ar_real,Krisp VIVA Pro v1,3.1153,3.7907,2.7609
+ar_real,Krisp VIVA Tel v2,3.0902,3.8733,2.7779
+ar_real,Unprocessed,3.2153,3.1354,2.5519
+ar_real,RNNoise,3.0915,3.8232,2.7502
+ar_real,Hamsa Safi v1 Fast,3.197,3.9456,2.8948
+ar_real_tel,DeepFilterNet3,2.8497,3.9471,2.5856
+ar_real_tel,Hush,2.3507,3.8564,2.1078
+ar_real_tel,Krisp VIVA Pro v1,2.8921,3.8402,2.5905
+ar_real_tel,Krisp VIVA Tel v2,2.868,3.8563,2.576
+ar_real_tel,Unprocessed,3.1015,3.2972,2.5487
+ar_real_tel,RNNoise,2.5112,3.8096,2.2199
+ar_real_tel,Hamsa Safi v1 Fast,2.9312,3.9678,2.658

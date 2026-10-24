@@ -1,0 +1,1401 @@
+set,system,id,dnsmos_sig,dnsmos_bak,dnsmos_ovrl
+ar_real,Krisp VIVA Tel v2,real002,3.0119,4.0472,2.7545
+ar_real,Krisp VIVA Pro v1,real002,2.9972,4.0919,2.7441
+ar_real,DeepFilterNet3,real002,3.3025,4.0657,3.0416
+ar_real,RNNoise,real002,3.3768,4.0945,3.1137
+ar_real,Unprocessed,real004,3.2355,2.5553,2.2685
+ar_real,Hamsa Safi v1 Fast,real004,3.0934,3.8346,2.7095
+ar_real,Krisp VIVA Tel v2,real004,3.2275,3.9164,2.8978
+ar_real,Krisp VIVA Pro v1,real004,3.1931,3.5803,2.7118
+ar_real,RNNoise,real001,2.8986,3.698,2.5488
+ar_real,Hush,real001,2.9985,3.5696,2.572
+ar_real,Unprocessed,real002,3.0828,2.6605,2.2468
+ar_real,Hamsa Safi v1 Fast,real002,3.1502,3.9846,2.8643
+ar_real,Hush,real002,2.8706,3.8618,2.5121
+ar_real,Unprocessed,real003,3.2349,2.7488,2.4052
+ar_real,Hamsa Safi v1 Fast,real003,3.1973,3.9308,2.9057
+ar_real,Krisp VIVA Tel v2,real003,2.7493,3.9528,2.5322
+ar_real,Hamsa Safi v1 Fast,real001,3.0177,3.696,2.6518
+ar_real,Krisp VIVA Tel v2,real001,2.9572,3.6007,2.5312
+ar_real,Krisp VIVA Pro v1,real001,3.187,3.5846,2.7261
+ar_real,DeepFilterNet3,real001,3.1025,3.7274,2.7232
+ar_real,DeepFilterNet3,real004,3.2965,3.434,2.7444
+ar_real,RNNoise,real004,3.1944,3.6454,2.7027
+ar_real,Hush,real004,3.2314,4.1131,2.936
+ar_real,Unprocessed,real005,3.4233,2.6545,2.4718
+ar_real,DeepFilterNet3,real000,3.019,3.4808,2.615
+ar_real,RNNoise,real000,3.0512,3.7853,2.7355
+ar_real,Hush,real000,2.4196,3.6022,2.1634
+ar_real,Unprocessed,real001,3.2059,2.3436,2.1512
+ar_real,Krisp VIVA Pro v1,real003,2.9987,3.953,2.757
+ar_real,DeepFilterNet3,real003,3.1925,3.8238,2.8705
+ar_real,RNNoise,real003,3.2384,4.0874,3.0123
+ar_real,Hush,real003,3.2006,4.0026,2.9412
+ar_real,Unprocessed,real000,3.1835,1.8682,1.9043
+ar_real,Hamsa Safi v1 Fast,real000,2.9452,3.6085,2.601
+ar_real,Krisp VIVA Tel v2,real000,2.6986,3.8016,2.4458
+ar_real,Krisp VIVA Pro v1,real000,2.697,3.5523,2.3621
+ar_real,Hamsa Safi v1 Fast,real005,3.4348,4.0175,3.1387
+ar_real,Krisp VIVA Tel v2,real005,3.4898,3.9475,3.1434
+ar_real,Krisp VIVA Pro v1,real005,3.3953,3.5513,2.848
+ar_real,DeepFilterNet3,real005,3.469,3.7575,3.0228
+ar_real,RNNoise,real005,3.4129,3.6765,2.9301
+ar_real,Hush,real005,3.4009,3.5257,2.853
+ar_real,Unprocessed,real006,2.9915,2.6653,2.2551
+ar_real,Hamsa Safi v1 Fast,real006,2.7974,3.6006,2.4442
+ar_real,Hush,real006,3.2369,4.1091,2.8848
+ar_real,Unprocessed,real007,3.2127,2.6203,2.2892
+ar_real,Hamsa Safi v1 Fast,real007,3.1597,4.0611,2.8546
+ar_real,Krisp VIVA Tel v2,real007,3.0458,3.9948,2.7726
+ar_real,Krisp VIVA Tel v2,real006,2.9597,3.7088,2.6144
+ar_real,Krisp VIVA Pro v1,real006,2.8514,3.5783,2.4971
+ar_real,DeepFilterNet3,real006,2.9951,3.6477,2.607
+ar_real,RNNoise,real006,3.0005,3.6811,2.6231
+ar_real,Krisp VIVA Pro v1,real007,3.1144,4.0647,2.8302
+ar_real,DeepFilterNet3,real007,3.274,4.1458,3.0273
+ar_real,RNNoise,real007,2.9775,4.0322,2.7192
+ar_real,Hush,real007,2.6269,3.8506,2.2777
+ar_real,Hamsa Safi v1 Fast,real009,2.9083,4.0751,2.6907
+ar_real,Krisp VIVA Tel v2,real009,2.8301,3.8915,2.5623
+ar_real,Krisp VIVA Pro v1,real009,2.833,3.8417,2.5505
+ar_real,DeepFilterNet3,real009,3.3222,4.0725,3.0473
+ar_real,DeepFilterNet3,real008,3.227,4.0962,2.9743
+ar_real,RNNoise,real008,3.1243,4.0747,2.8869
+ar_real,Hush,real008,3.2791,3.8161,2.9327
+ar_real,Unprocessed,real009,3.0947,2.676,2.2962
+ar_real,RNNoise,real009,3.0712,3.9988,2.8036
+ar_real,Hush,real009,2.7819,3.6814,2.4456
+ar_real,Unprocessed,real010,3.3207,2.6533,2.3865
+ar_real,Hamsa Safi v1 Fast,real010,3.4032,4.0443,3.1163
+ar_real,Unprocessed,real008,3.2067,2.7833,2.3726
+ar_real,Hamsa Safi v1 Fast,real008,3.1195,4.1191,2.8957
+ar_real,Krisp VIVA Tel v2,real008,3.1446,4.0647,2.892
+ar_real,Krisp VIVA Pro v1,real008,3.0229,4.0025,2.7542
+ar_real,Krisp VIVA Tel v2,real014,2.9299,3.8477,2.6177
+ar_real,Krisp VIVA Pro v1,real014,2.9059,3.9265,2.6203
+ar_real,DeepFilterNet3,real014,2.8419,3.928,2.5643
+ar_real,RNNoise,real014,2.7235,3.8128,2.4486
+ar_real,Krisp VIVA Tel v2,real010,3.3015,3.9544,3.004
+ar_real,Krisp VIVA Pro v1,real010,3.1578,3.1501,2.4468
+ar_real,DeepFilterNet3,real010,3.6226,4.1343,3.3745
+ar_real,RNNoise,real010,3.272,3.7589,2.8785
+ar_real,Krisp VIVA Pro v1,real011,3.0726,3.7107,2.7037
+ar_real,DeepFilterNet3,real011,2.767,3.7317,2.4109
+ar_real,RNNoise,real011,2.9152,3.0898,2.2867
+ar_real,Hush,real011,2.8356,3.6276,2.4923
+ar_real,RNNoise,real013,3.1053,3.8573,2.7849
+ar_real,Hush,real013,3.2017,3.8129,2.8577
+ar_real,Unprocessed,real014,3.1623,2.713,2.3261
+ar_real,Hamsa Safi v1 Fast,real014,2.8205,3.9278,2.5796
+ar_real,Hush,real010,3.2637,3.9135,2.9422
+ar_real,Unprocessed,real011,3.2685,2.8032,2.4374
+ar_real,Hamsa Safi v1 Fast,real011,2.8656,3.8901,2.5623
+ar_real,Krisp VIVA Tel v2,real011,2.9471,3.82,2.6371
+ar_real,Hush,real014,2.4787,3.3024,1.945
+ar_real,Unprocessed,real015,3.163,2.9946,2.4705
+ar_real,Hamsa Safi v1 Fast,real015,3.3693,4.1545,3.131
+ar_real,Krisp VIVA Tel v2,real015,3.086,3.8186,2.7646
+ar_real,Hamsa Safi v1 Fast,real013,3.1225,4.0149,2.845
+ar_real,Krisp VIVA Tel v2,real013,3.1546,3.9122,2.8554
+ar_real,Krisp VIVA Pro v1,real013,2.9993,3.7192,2.653
+ar_real,DeepFilterNet3,real013,3.1082,3.7443,2.7397
+ar_real,Krisp VIVA Pro v1,real015,3.2403,4.0427,2.9946
+ar_real,DeepFilterNet3,real015,3.2827,4.0612,3.0226
+ar_real,RNNoise,real015,3.0726,3.9137,2.7761
+ar_real,Hush,real015,3.2196,3.9856,2.916
+ar_real,Unprocessed,real012,2.9608,2.7097,2.1729
+ar_real,Hamsa Safi v1 Fast,real012,2.9193,3.8219,2.5509
+ar_real,Krisp VIVA Tel v2,real012,2.9414,3.9481,2.6638
+ar_real,Krisp VIVA Pro v1,real012,2.8489,3.9662,2.5909
+ar_real,DeepFilterNet3,real012,2.9643,4.0329,2.6846
+ar_real,RNNoise,real012,2.5648,3.5574,2.1561
+ar_real,Hush,real012,2.7899,3.9702,2.4875
+ar_real,Unprocessed,real013,3.0324,2.7264,2.2691
+ar_real,Unprocessed,real020,3.1863,2.8684,2.3651
+ar_real,Hamsa Safi v1 Fast,real020,3.305,3.0266,2.5321
+ar_real,Krisp VIVA Tel v2,real020,3.1785,3.7115,2.798
+ar_real,Krisp VIVA Pro v1,real020,3.1954,3.6577,2.7569
+ar_real,DeepFilterNet3,real020,3.2875,3.5401,2.778
+ar_real,RNNoise,real020,3.2254,3.0416,2.4561
+ar_real,Hush,real020,3.1709,3.9058,2.8365
+ar_real,Unprocessed,real021,3.1083,2.9126,2.3985
+ar_real,DeepFilterNet3,real016,3.0426,3.7526,2.7276
+ar_real,RNNoise,real016,3.0274,3.9698,2.7755
+ar_real,Hush,real016,3.3911,3.8071,3.0232
+ar_real,Unprocessed,real017,3.5114,2.8028,2.5668
+ar_real,Unprocessed,real016,3.1631,2.8701,2.4111
+ar_real,Hamsa Safi v1 Fast,real016,3.2818,4.0881,3.0469
+ar_real,Krisp VIVA Tel v2,real016,3.0633,3.9489,2.7996
+ar_real,Krisp VIVA Pro v1,real016,3.1371,3.6678,2.7527
+ar_real,Hamsa Safi v1 Fast,real021,2.9123,3.952,2.6496
+ar_real,Krisp VIVA Tel v2,real021,2.896,3.8742,2.6273
+ar_real,Krisp VIVA Pro v1,real021,2.7726,3.9077,2.5335
+ar_real,DeepFilterNet3,real021,2.9358,3.9017,2.6486
+ar_real,Hamsa Safi v1 Fast,real017,3.4231,3.9632,3.0626
+ar_real,Krisp VIVA Tel v2,real017,3.3748,3.9761,3.0539
+ar_real,Krisp VIVA Pro v1,real017,3.3927,3.4202,2.8
+ar_real,DeepFilterNet3,real017,3.4664,4.1613,3.2134
+ar_real,Krisp VIVA Tel v2,real018,3.2226,3.7194,2.8163
+ar_real,Krisp VIVA Pro v1,real018,3.1152,3.4564,2.6116
+ar_real,DeepFilterNet3,real018,3.4041,3.6916,2.922
+ar_real,RNNoise,real018,3.2452,3.0684,2.5289
+ar_real,RNNoise,real017,3.3593,3.7651,2.9411
+ar_real,Hush,real017,3.3196,3.926,2.9536
+ar_real,Unprocessed,real018,3.4234,2.8285,2.5502
+ar_real,Hamsa Safi v1 Fast,real018,3.3487,3.5743,2.8384
+ar_real,Unprocessed,real024,2.9895,2.9281,2.278
+ar_real,Hamsa Safi v1 Fast,real024,2.873,3.6668,2.4821
+ar_real,Krisp VIVA Tel v2,real024,2.7705,3.7531,2.4545
+ar_real,Krisp VIVA Pro v1,real024,2.7029,3.3692,2.2568
+ar_real,Hush,real018,3.0948,3.4118,2.5217
+ar_real,Unprocessed,real019,3.0448,2.9661,2.3959
+ar_real,Hamsa Safi v1 Fast,real019,3.1967,4.0666,2.9221
+ar_real,Krisp VIVA Tel v2,real019,2.2323,3.5988,2.0099
+ar_real,RNNoise,real021,3.0074,3.854,2.7277
+ar_real,Hush,real021,2.953,3.6139,2.5011
+ar_real,Unprocessed,real022,3.5673,2.9655,2.7401
+ar_real,Hamsa Safi v1 Fast,real022,3.4895,4.15,3.2656
+ar_real,DeepFilterNet3,real024,3.0236,3.876,2.7039
+ar_real,RNNoise,real024,2.7481,3.6543,2.3999
+ar_real,Hush,real024,2.8331,3.6495,2.3761
+ar_real,Unprocessed,real025,3.4694,2.913,2.6923
+ar_real,Krisp VIVA Pro v1,real019,2.9792,3.9865,2.6932
+ar_real,DeepFilterNet3,real019,3.1785,4.0928,2.911
+ar_real,RNNoise,real019,2.4803,3.787,2.2206
+ar_real,Hush,real019,2.3455,3.9584,2.1459
+ar_real,Krisp VIVA Pro v1,real027,3.1658,3.8079,2.8118
+ar_real,DeepFilterNet3,real027,3.448,3.9941,3.1528
+ar_real,RNNoise,real027,3.2122,4.0536,2.9489
+ar_real,Hush,real027,3.0574,3.5375,2.6068
+ar_real,Hush,real026,2.7598,3.3721,2.337
+ar_real,Unprocessed,real027,3.1693,3.1276,2.5244
+ar_real,Hamsa Safi v1 Fast,real027,3.2339,3.7633,2.841
+ar_real,Krisp VIVA Tel v2,real027,1.5014,3.7333,1.4296
+ar_real,Hush,real022,3.4168,4.1224,3.1647
+ar_real,Unprocessed,real023,3.029,2.8718,2.2646
+ar_real,Hamsa Safi v1 Fast,real023,3.2344,4.1608,3.0223
+ar_real,Krisp VIVA Tel v2,real023,3.2315,4.1288,3.0011
+ar_real,Krisp VIVA Tel v2,real022,3.4722,4.1152,3.2293
+ar_real,Krisp VIVA Pro v1,real022,3.4393,4.0872,3.1767
+ar_real,DeepFilterNet3,real022,3.5237,4.1118,3.2889
+ar_real,RNNoise,real022,3.4931,4.0974,3.2532
+ar_real,Hamsa Safi v1 Fast,real025,3.5848,4.1217,3.3431
+ar_real,Krisp VIVA Tel v2,real025,3.5246,4.098,3.2801
+ar_real,Krisp VIVA Pro v1,real025,3.5235,4.1204,3.2905
+ar_real,DeepFilterNet3,real025,3.6558,4.1087,3.4075
+ar_real,Krisp VIVA Pro v1,real023,3.1455,4.0461,2.8904
+ar_real,DeepFilterNet3,real023,3.2991,4.1567,3.0858
+ar_real,RNNoise,real023,2.7223,3.7591,2.4199
+ar_real,Hush,real023,3.0069,4.0061,2.7512
+ar_real,RNNoise,real025,3.5047,3.6233,3.0079
+ar_real,Hush,real025,3.5998,3.9029,3.2206
+ar_real,Unprocessed,real026,3.0538,2.9074,2.439
+ar_real,Hamsa Safi v1 Fast,real026,3.1935,4.1059,2.9689
+ar_real,Krisp VIVA Tel v2,real030,2.9993,4.0166,2.7314
+ar_real,Krisp VIVA Pro v1,real030,2.9926,3.984,2.7059
+ar_real,DeepFilterNet3,real030,3.1028,3.8904,2.7831
+ar_real,RNNoise,real030,3.1542,4.04,2.8863
+ar_real,Krisp VIVA Tel v2,real026,2.9042,3.6175,2.5427
+ar_real,Krisp VIVA Pro v1,real026,2.8229,3.5472,2.4595
+ar_real,DeepFilterNet3,real026,2.8807,3.8182,2.5893
+ar_real,RNNoise,real026,2.9369,3.8639,2.6494
+ar_real,RNNoise,real029,3.2907,4.0073,3.0257
+ar_real,Hush,real029,3.2605,3.9945,3.0109
+ar_real,Unprocessed,real030,3.2714,3.0866,2.5412
+ar_real,Hamsa Safi v1 Fast,real030,3.1985,3.976,2.9101
+ar_real,DeepFilterNet3,real028,3.5206,4.1188,3.2657
+ar_real,RNNoise,real028,3.02,3.7318,2.6554
+ar_real,Hush,real028,3.3036,3.2018,2.608
+ar_real,Unprocessed,real029,3.1697,3.0323,2.4476
+ar_real,Unprocessed,real028,3.3862,3.1264,2.6707
+ar_real,Hamsa Safi v1 Fast,real028,3.282,4.0454,3.0006
+ar_real,Krisp VIVA Tel v2,real028,3.3486,4.0814,3.0816
+ar_real,Krisp VIVA Pro v1,real028,3.3962,4.048,3.1142
+ar_real,Hamsa Safi v1 Fast,real029,3.401,4.1133,3.1728
+ar_real,Krisp VIVA Tel v2,real029,3.2015,4.0293,2.975
+ar_real,Krisp VIVA Pro v1,real029,3.3257,4.0478,3.0773
+ar_real,DeepFilterNet3,real029,3.4087,4.0944,3.1732
+ar_real,Hush,real030,3.0404,4.1049,2.7582
+ar_real,Unprocessed,real031,3.3026,3.0387,2.5707
+ar_real,Hamsa Safi v1 Fast,real031,3.0443,3.6324,2.6075
+ar_real,Krisp VIVA Tel v2,real031,3.247,3.8662,2.8972
+ar_real,Krisp VIVA Tel v2,real034,3.0526,3.9047,2.7699
+ar_real,Krisp VIVA Pro v1,real034,3.0854,3.6669,2.6895
+ar_real,DeepFilterNet3,real034,2.926,3.2529,2.3842
+ar_real,RNNoise,real034,2.972,3.8164,2.6674
+ar_real,RNNoise,real033,1.9266,3.7981,1.7494
+ar_real,Hush,real033,2.6498,3.803,2.3686
+ar_real,Unprocessed,real034,2.9364,3.1006,2.3269
+ar_real,Hamsa Safi v1 Fast,real034,2.9929,3.601,2.5912
+ar_real,Unprocessed,real036,3.0971,3.3313,2.4701
+ar_real,Hamsa Safi v1 Fast,real036,3.1397,3.5444,2.6154
+ar_real,Krisp VIVA Tel v2,real036,3.0101,3.6112,2.5383
+ar_real,Krisp VIVA Pro v1,real036,2.9342,3.4186,2.4007
+ar_real,Hamsa Safi v1 Fast,real033,3.0564,3.8903,2.7595
+ar_real,Krisp VIVA Tel v2,real033,2.9333,3.6004,2.5555
+ar_real,Krisp VIVA Pro v1,real033,2.9994,3.6298,2.6181
+ar_real,DeepFilterNet3,real033,3.092,3.8229,2.7536
+ar_real,Krisp VIVA Pro v1,real031,3.2185,3.8656,2.8769
+ar_real,DeepFilterNet3,real031,3.3795,4.0357,3.0927
+ar_real,RNNoise,real031,3.0885,3.3738,2.5253
+ar_real,Hush,real031,3.0238,3.6191,2.5793
+ar_real,DeepFilterNet3,real032,3.2125,3.9878,2.9147
+ar_real,RNNoise,real032,3.053,3.6828,2.6424
+ar_real,Hush,real032,2.6501,3.9047,2.3357
+ar_real,Unprocessed,real033,3.2328,3.0023,2.5425
+ar_real,Unprocessed,real032,3.2148,3.1299,2.5254
+ar_real,Hamsa Safi v1 Fast,real032,3.1799,3.4914,2.6566
+ar_real,Krisp VIVA Tel v2,real032,3.1296,3.3017,2.5045
+ar_real,Krisp VIVA Pro v1,real032,2.9497,2.5505,2.0504
+ar_real,DeepFilterNet3,real036,3.173,3.4874,2.6028
+ar_real,RNNoise,real036,3.0168,3.8279,2.6774
+ar_real,Hush,real036,2.8477,3.1832,2.2425
+ar_real,Unprocessed,real037,3.3126,3.0713,2.6037
+ar_real,Hush,real034,3.227,3.344,2.6554
+ar_real,Unprocessed,real035,3.1782,3.0061,2.4738
+ar_real,Hamsa Safi v1 Fast,real035,2.9632,3.8184,2.6496
+ar_real,Krisp VIVA Tel v2,real035,3.0779,3.7151,2.7006
+ar_real,Krisp VIVA Tel v2,real038,3.3841,3.8597,3.0288
+ar_real,Krisp VIVA Pro v1,real038,3.3107,3.7153,2.9034
+ar_real,DeepFilterNet3,real038,3.4766,3.9275,3.1365
+ar_real,RNNoise,real038,3.5252,4.012,3.2446
+ar_real,Unprocessed,real040,3.3593,3.0601,2.5694
+ar_real,Hamsa Safi v1 Fast,real040,3.3655,3.5226,2.8306
+ar_real,Krisp VIVA Tel v2,real040,3.2644,3.3129,2.6792
+ar_real,Krisp VIVA Pro v1,real040,3.3272,3.1993,2.639
+ar_real,RNNoise,real037,3.3163,3.53,2.8148
+ar_real,Hush,real037,3.2882,3.9215,2.9448
+ar_real,Unprocessed,real038,3.5635,3.0393,2.8098
+ar_real,Hamsa Safi v1 Fast,real038,3.5348,4.0419,3.2477
+ar_real,Krisp VIVA Pro v1,real035,3.0859,3.9108,2.8133
+ar_real,DeepFilterNet3,real035,3.2182,3.7168,2.7717
+ar_real,RNNoise,real035,3.0229,3.9235,2.7524
+ar_real,Hush,real035,3.3385,4.0818,3.0919
+ar_real,Hamsa Safi v1 Fast,real037,3.2779,4.0311,3.0008
+ar_real,Krisp VIVA Tel v2,real037,3.3773,4.0274,3.1028
+ar_real,Krisp VIVA Pro v1,real037,3.3711,4.0253,3.0869
+ar_real,DeepFilterNet3,real037,3.4728,3.9812,3.1521
+ar_real,DeepFilterNet3,real040,3.4268,3.5665,2.901
+ar_real,RNNoise,real040,3.328,3.0681,2.5462
+ar_real,Hush,real040,3.3609,3.7239,2.9304
+ar_real,Unprocessed,real041,3.3407,3.0233,2.6074
+ar_real,Hush,real038,3.1924,3.8828,2.8655
+ar_real,Unprocessed,real039,3.5775,3.06,2.8028
+ar_real,Hamsa Safi v1 Fast,real039,3.5799,3.9493,3.2364
+ar_real,Krisp VIVA Tel v2,real039,3.5045,4.0363,3.2252
+ar_real,Krisp VIVA Pro v1,real043,3.2752,3.5904,2.7781
+ar_real,DeepFilterNet3,real043,3.4318,4.1466,3.1882
+ar_real,RNNoise,real043,3.3174,3.8995,2.965
+ar_real,Hush,real043,2.3905,3.8953,2.1606
+ar_real,Unprocessed,real044,3.3293,3.3763,2.7976
+ar_real,Hamsa Safi v1 Fast,real044,3.2756,3.1968,2.7028
+ar_real,Krisp VIVA Tel v2,real044,3.1886,3.4106,2.6518
+ar_real,Krisp VIVA Pro v1,real044,3.4071,3.3822,2.8233
+ar_real,Hush,real042,2.7912,3.7274,2.4255
+ar_real,Unprocessed,real043,3.3529,3.0639,2.6089
+ar_real,Hamsa Safi v1 Fast,real043,3.3575,4.1451,3.1068
+ar_real,Krisp VIVA Tel v2,real043,3.1976,3.76,2.8008
+ar_real,Krisp VIVA Pro v1,real039,3.6581,4.0783,3.372
+ar_real,DeepFilterNet3,real039,3.5694,3.8651,3.1795
+ar_real,RNNoise,real039,3.27,3.7155,2.8637
+ar_real,Hush,real039,3.6538,3.7874,3.2073
+ar_real,DeepFilterNet3,real044,3.3384,3.6182,2.9097
+ar_real,RNNoise,real044,3.4213,3.4651,2.895
+ar_real,Hush,real044,3.363,3.6524,2.916
+ar_real,Unprocessed,real045,3.3698,3.0975,2.6775
+ar_real,RNNoise,real041,3.2545,4.0263,2.9873
+ar_real,Hush,real041,3.2,3.9309,2.8636
+ar_real,Unprocessed,real042,3.3206,3.0481,2.6184
+ar_real,Hamsa Safi v1 Fast,real042,3.1015,3.8668,2.779
+ar_real,Krisp VIVA Tel v2,real042,3.2804,4.05,3.0093
+ar_real,Krisp VIVA Pro v1,real042,3.2087,3.9027,2.8843
+ar_real,DeepFilterNet3,real042,3.2994,3.7571,2.9086
+ar_real,RNNoise,real042,3.1735,4.0051,2.8938
+ar_real,Hamsa Safi v1 Fast,real041,3.3239,4.1069,3.0642
+ar_real,Krisp VIVA Tel v2,real041,3.1941,4.0812,2.9275
+ar_real,Krisp VIVA Pro v1,real041,3.2676,4.0629,2.9897
+ar_real,DeepFilterNet3,real041,3.2682,4.0746,2.9897
+ar_real,Krisp VIVA Tel v2,real046,3.091,3.9384,2.8122
+ar_real,Krisp VIVA Pro v1,real046,3.2655,4.0064,2.993
+ar_real,DeepFilterNet3,real046,2.9624,3.5363,2.5696
+ar_real,RNNoise,real046,3.1418,4.0053,2.8822
+ar_real,Hamsa Safi v1 Fast,real045,2.9342,4.082,2.7276
+ar_real,Krisp VIVA Tel v2,real045,3.0251,4.1071,2.8179
+ar_real,Krisp VIVA Pro v1,real045,3.1417,3.9882,2.8574
+ar_real,DeepFilterNet3,real045,3.0904,3.97,2.8045
+ar_real,RNNoise,real045,3.1894,3.9437,2.8881
+ar_real,Hush,real045,2.7045,3.9056,2.4187
+ar_real,Unprocessed,real046,3.1201,3.1088,2.489
+ar_real,Hamsa Safi v1 Fast,real046,3.0918,4.0914,2.873
+ar_real,Krisp VIVA Pro v1,real047,3.2563,3.8867,2.9423
+ar_real,DeepFilterNet3,real047,3.1267,4.0048,2.8635
+ar_real,RNNoise,real047,3.227,3.9082,2.916
+ar_real,Hush,real047,3.1559,4.0055,2.8395
+ar_real,Hush,real046,3.2575,3.7529,2.87
+ar_real,Unprocessed,real047,3.2465,3.147,2.6072
+ar_real,Hamsa Safi v1 Fast,real047,3.3876,4.0492,3.1189
+ar_real,Krisp VIVA Tel v2,real047,3.1349,4.0039,2.8721
+ar_real,Krisp VIVA Tel v2,real050,2.9012,3.7798,2.5612
+ar_real,Krisp VIVA Pro v1,real050,3.0679,3.706,2.6844
+ar_real,DeepFilterNet3,real050,3.1655,4.0426,2.905
+ar_real,RNNoise,real050,2.7953,3.6338,2.4216
+ar_real,Hush,real050,2.4694,3.6369,2.1843
+ar_real,Unprocessed,real051,2.9981,3.1462,2.4543
+ar_real,Hamsa Safi v1 Fast,real051,3.354,3.9703,3.0539
+ar_real,Krisp VIVA Tel v2,real051,2.9097,3.6556,2.5627
+ar_real,RNNoise,real049,3.0461,3.8378,2.7174
+ar_real,Hush,real049,3.0133,3.8804,2.7082
+ar_real,Unprocessed,real050,3.1317,3.1607,2.5166
+ar_real,Hamsa Safi v1 Fast,real050,2.9873,3.8445,2.6826
+ar_real,Unprocessed,real048,3.4847,3.7218,2.9966
+ar_real,Hamsa Safi v1 Fast,real048,3.3338,3.9516,2.9926
+ar_real,Krisp VIVA Tel v2,real048,3.4675,3.7684,3.0229
+ar_real,Krisp VIVA Pro v1,real048,3.4698,3.7956,3.043
+ar_real,Hamsa Safi v1 Fast,real053,2.4022,3.9855,2.239
+ar_real,Krisp VIVA Tel v2,real053,2.3473,4.0897,2.2185
+ar_real,Krisp VIVA Pro v1,real053,2.264,4.0572,2.119
+ar_real,DeepFilterNet3,real053,2.7249,4.1211,2.5413
+ar_real,DeepFilterNet3,real048,3.6254,4.0685,3.3255
+ar_real,RNNoise,real048,3.4989,3.6343,2.9579
+ar_real,Hush,real048,3.5523,4.1044,3.2868
+ar_real,Unprocessed,real049,3.1343,3.1984,2.5517
+ar_real,Krisp VIVA Pro v1,real051,2.8768,3.6593,2.5365
+ar_real,DeepFilterNet3,real051,3.3428,4.0486,3.0864
+ar_real,RNNoise,real051,3.1732,3.801,2.8159
+ar_real,Hush,real051,2.9923,3.4026,2.4805
+ar_real,Krisp VIVA Pro v1,real055,3.0552,3.587,2.5975
+ar_real,DeepFilterNet3,real055,3.3722,4.1484,3.1325
+ar_real,RNNoise,real055,3.2779,3.9256,2.9558
+ar_real,Hush,real055,3.3477,3.7954,2.9087
+ar_real,DeepFilterNet3,real052,3.1658,4.0651,2.9096
+ar_real,RNNoise,real052,2.7699,3.8511,2.4856
+ar_real,Hush,real052,2.6065,3.9471,2.3953
+ar_real,Unprocessed,real053,2.9904,3.0358,2.2938
+ar_real,Hush,real054,3.1727,3.7199,2.7636
+ar_real,Unprocessed,real055,3.3948,3.2345,2.6699
+ar_real,Hamsa Safi v1 Fast,real055,3.4223,4.1665,3.1984
+ar_real,Krisp VIVA Tel v2,real055,3.0589,3.7187,2.6683
+ar_real,RNNoise,real053,2.3347,3.801,2.1182
+ar_real,Hush,real053,2.3757,3.9315,2.1082
+ar_real,Unprocessed,real054,3.0945,3.2543,2.5026
+ar_real,Hamsa Safi v1 Fast,real054,3.184,3.6387,2.7489
+ar_real,Hamsa Safi v1 Fast,real049,3.175,3.9202,2.8746
+ar_real,Krisp VIVA Tel v2,real049,2.8973,3.7915,2.5833
+ar_real,Krisp VIVA Pro v1,real049,2.8771,3.7645,2.5628
+ar_real,DeepFilterNet3,real049,3.0926,3.922,2.785
+ar_real,Hamsa Safi v1 Fast,real057,3.3565,4.0948,3.1409
+ar_real,Krisp VIVA Tel v2,real057,3.3697,4.1161,3.1496
+ar_real,Krisp VIVA Pro v1,real057,3.2357,3.986,2.9727
+ar_real,DeepFilterNet3,real057,3.0818,3.8851,2.7836
+ar_real,Unprocessed,real052,3.0094,3.3642,2.4895
+ar_real,Hamsa Safi v1 Fast,real052,3.0236,4.0428,2.7647
+ar_real,Krisp VIVA Tel v2,real052,3.0311,4.032,2.7705
+ar_real,Krisp VIVA Pro v1,real052,3.1092,4.0196,2.8405
+ar_real,Krisp VIVA Tel v2,real054,3.241,3.6928,2.8024
+ar_real,Krisp VIVA Pro v1,real054,3.0511,3.4825,2.5987
+ar_real,DeepFilterNet3,real054,3.0523,3.2493,2.4274
+ar_real,RNNoise,real054,3.0887,3.4989,2.5384
+ar_real,Unprocessed,real060,2.8372,3.2558,2.3044
+ar_real,Hamsa Safi v1 Fast,real060,2.8493,4.11,2.6442
+ar_real,Krisp VIVA Tel v2,real060,2.888,4.0881,2.689
+ar_real,Krisp VIVA Pro v1,real060,2.7589,3.8345,2.4944
+ar_real,RNNoise,real057,2.9762,3.9882,2.7488
+ar_real,Hush,real057,2.6032,3.9992,2.3949
+ar_real,Unprocessed,real058,3.3635,3.2184,2.7265
+ar_real,Hamsa Safi v1 Fast,real058,3.3254,3.8496,2.976
+ar_real,Krisp VIVA Tel v2,real058,3.3536,4.0574,3.0961
+ar_real,Krisp VIVA Pro v1,real058,3.2926,3.969,3.0008
+ar_real,DeepFilterNet3,real058,3.2731,3.8388,2.9298
+ar_real,RNNoise,real058,3.276,4.0467,3.0216
+ar_real,DeepFilterNet3,real060,3.2751,4.1745,3.0678
+ar_real,RNNoise,real060,2.8226,4.0616,2.6199
+ar_real,Hush,real060,2.5387,3.7914,2.2521
+ar_real,Unprocessed,real061,3.5395,3.2473,2.8203
+ar_real,Krisp VIVA Tel v2,real062,3.3197,3.8483,2.9811
+ar_real,Krisp VIVA Pro v1,real062,3.2521,3.6065,2.832
+ar_real,DeepFilterNet3,real062,3.348,4.014,3.0905
+ar_real,RNNoise,real062,3.3096,3.8135,2.973
+ar_real,DeepFilterNet3,real056,3.4423,3.8031,3.0238
+ar_real,RNNoise,real056,3.2681,3.8971,2.934
+ar_real,Hush,real056,2.8333,3.7817,2.3911
+ar_real,Unprocessed,real057,2.8676,3.2749,2.3651
+ar_real,Unprocessed,real064,3.14,3.3208,2.6011
+ar_real,Hamsa Safi v1 Fast,real064,3.2458,4.1205,3.0143
+ar_real,Krisp VIVA Tel v2,real064,3.1275,4.128,2.9071
+ar_real,Krisp VIVA Pro v1,real064,2.9259,4.0954,2.7241
+ar_real,RNNoise,real061,3.5263,4.0937,3.2721
+ar_real,Hush,real061,3.148,3.9704,2.8552
+ar_real,Unprocessed,real062,3.4418,3.3123,2.8656
+ar_real,Hamsa Safi v1 Fast,real062,3.4511,4.1028,3.2146
+ar_real,Hush,real058,3.2108,3.8729,2.881
+ar_real,Unprocessed,real059,3.4122,3.1148,2.7574
+ar_real,Hamsa Safi v1 Fast,real059,3.36,4.0099,3.0666
+ar_real,Krisp VIVA Tel v2,real059,3.2537,3.8715,2.9336
+ar_real,Krisp VIVA Pro v1,real059,3.0029,3.6756,2.6504
+ar_real,DeepFilterNet3,real059,3.3238,3.5626,2.8387
+ar_real,RNNoise,real059,3.326,3.805,2.9623
+ar_real,Hush,real059,3.2443,3.6574,2.8179
+ar_real,Unprocessed,real056,3.2651,3.1638,2.6176
+ar_real,Hamsa Safi v1 Fast,real056,3.3034,3.931,2.9982
+ar_real,Krisp VIVA Tel v2,real056,3.1639,3.8707,2.8271
+ar_real,Krisp VIVA Pro v1,real056,3.0366,3.6616,2.6506
+ar_real,Hush,real062,3.3454,3.9851,3.0458
+ar_real,Unprocessed,real063,3.0933,3.149,2.4068
+ar_real,Hamsa Safi v1 Fast,real063,3.2354,3.972,2.9446
+ar_real,Krisp VIVA Tel v2,real063,3.0506,3.8322,2.727
+ar_real,DeepFilterNet3,real064,3.2143,4.1162,2.9579
+ar_real,RNNoise,real064,3.0738,4.0534,2.824
+ar_real,Hush,real064,2.8862,3.8635,2.5814
+ar_real,Unprocessed,real065,2.9711,3.128,2.3986
+ar_real,Hamsa Safi v1 Fast,real061,3.5171,4.1933,3.2959
+ar_real,Krisp VIVA Tel v2,real061,3.5446,4.1286,3.2972
+ar_real,Krisp VIVA Pro v1,real061,3.53,4.0854,3.2623
+ar_real,DeepFilterNet3,real061,3.609,4.1575,3.3664
+ar_real,Unprocessed,real068,3.3021,3.3588,2.729
+ar_real,Hamsa Safi v1 Fast,real068,3.098,4.1629,2.9259
+ar_real,Krisp VIVA Tel v2,real068,3.1328,4.1753,2.9767
+ar_real,Krisp VIVA Pro v1,real068,3.0961,4.1062,2.8995
+ar_real,Hush,real066,2.9027,3.8337,2.6039
+ar_real,Unprocessed,real067,3.331,3.2332,2.6913
+ar_real,Hamsa Safi v1 Fast,real067,3.4818,4.1367,3.2285
+ar_real,Krisp VIVA Tel v2,real067,3.2435,3.7236,2.8262
+ar_real,DeepFilterNet3,real068,3.1915,4.0897,2.987
+ar_real,RNNoise,real068,3.0169,4.0544,2.8236
+ar_real,Hush,real068,2.9193,4.0499,2.6983
+ar_real,Unprocessed,real069,3.442,3.3397,2.84
+ar_real,Krisp VIVA Pro v1,real063,2.9447,3.7165,2.5816
+ar_real,DeepFilterNet3,real063,3.206,3.8587,2.8796
+ar_real,RNNoise,real063,2.9365,3.9144,2.6634
+ar_real,Hush,real063,2.4769,3.8444,2.1758
+ar_real,Hamsa Safi v1 Fast,real069,3.3356,3.8426,3.0144
+ar_real,Krisp VIVA Tel v2,real069,3.0146,3.7085,2.6478
+ar_real,Krisp VIVA Pro v1,real069,3.2619,3.7497,2.9175
+ar_real,DeepFilterNet3,real069,3.3145,3.7599,2.966
+ar_real,Krisp VIVA Pro v1,real067,3.2632,3.6964,2.8386
+ar_real,DeepFilterNet3,real067,3.4137,3.9455,3.0912
+ar_real,RNNoise,real067,3.0159,3.8568,2.678
+ar_real,Hush,real067,3.3681,3.9927,3.0554
+ar_real,RNNoise,real065,2.7324,3.1575,2.2229
+ar_real,Hush,real065,2.4411,3.9995,2.2419
+ar_real,Unprocessed,real066,3.1972,3.4193,2.6604
+ar_real,Hamsa Safi v1 Fast,real066,3.227,3.9188,2.9242
+ar_real,Krisp VIVA Tel v2,real066,3.1802,3.6999,2.8076
+ar_real,Krisp VIVA Pro v1,real066,3.0658,3.6139,2.6673
+ar_real,DeepFilterNet3,real066,3.2584,3.8441,2.9002
+ar_real,RNNoise,real066,3.2692,3.8029,2.9221
+ar_real,Hamsa Safi v1 Fast,real065,3.0076,3.9785,2.7411
+ar_real,Krisp VIVA Tel v2,real065,2.8522,3.6185,2.459
+ar_real,Krisp VIVA Pro v1,real065,2.7878,3.4775,2.3694
+ar_real,DeepFilterNet3,real065,3.0538,3.9138,2.7538
+ar_real,RNNoise,real069,3.2724,3.8748,2.9682
+ar_real,Hush,real069,3.0901,3.5732,2.5929
+ar_real,Unprocessed,real070,2.9167,3.2131,2.3116
+ar_real,Hamsa Safi v1 Fast,real070,3.2887,4.1902,3.0971
+ar_real,Unprocessed,real072,3.2224,3.3499,2.6769
+ar_real,Hamsa Safi v1 Fast,real072,3.0618,3.8953,2.7603
+ar_real,Krisp VIVA Tel v2,real072,3.1996,3.8168,2.8427
+ar_real,Krisp VIVA Pro v1,real072,3.2277,3.8557,2.8873
+ar_real,DeepFilterNet3,real072,3.1109,3.8039,2.7675
+ar_real,RNNoise,real072,3.1668,3.7154,2.7719
+ar_real,Hush,real072,3.3914,4.0079,3.1033
+ar_real,Unprocessed,real073,2.972,3.2996,2.4096
+ar_real,Hush,real070,3.2421,4.0068,2.9689
+ar_real,Unprocessed,real071,3.3555,3.4481,2.7621
+ar_real,Hamsa Safi v1 Fast,real071,3.2809,4.1638,3.056
+ar_real,Krisp VIVA Tel v2,real071,2.7837,4.0152,2.5466
+ar_real,Krisp VIVA Tel v2,real070,3.2426,4.0556,3.0035
+ar_real,Krisp VIVA Pro v1,real070,2.9947,3.6425,2.5937
+ar_real,DeepFilterNet3,real070,3.1527,3.9907,2.878
+ar_real,RNNoise,real070,3.3087,3.9566,3.0042
+ar_real,Krisp VIVA Pro v1,real071,3.1247,4.1269,2.8923
+ar_real,DeepFilterNet3,real071,3.3196,4.1083,3.0574
+ar_real,RNNoise,real071,2.9628,3.8262,2.6206
+ar_real,Hush,real071,2.5226,3.8947,2.1939
+ar_real,Hamsa Safi v1 Fast,real073,3.0004,3.7057,2.6377
+ar_real,Krisp VIVA Tel v2,real073,2.9179,3.5322,2.4878
+ar_real,Krisp VIVA Pro v1,real073,2.9569,3.5815,2.5321
+ar_real,DeepFilterNet3,real073,3.2306,3.8944,2.8835
+ar_real,RNNoise,real073,2.9803,3.4473,2.4983
+ar_real,Hush,real073,3.1074,3.8239,2.7577
+ar_real,Unprocessed,real074,3.2511,3.5806,2.7608
+ar_real,Hamsa Safi v1 Fast,real074,3.4118,3.9453,3.0863
+ar_real,Krisp VIVA Pro v1,real075,3.1155,3.7856,2.7604
+ar_real,DeepFilterNet3,real075,3.4134,4.0509,3.1226
+ar_real,RNNoise,real075,3.0955,3.8071,2.7597
+ar_real,Hush,real075,3.3078,3.7439,2.8725
+ar_real,Hush,real074,2.8808,3.5629,2.3994
+ar_real,Unprocessed,real075,3.1021,3.4475,2.5825
+ar_real,Hamsa Safi v1 Fast,real075,3.257,3.9683,2.9562
+ar_real,Krisp VIVA Tel v2,real075,3.011,3.7221,2.6605
+ar_real,Krisp VIVA Tel v2,real074,3.1631,3.9175,2.8554
+ar_real,Krisp VIVA Pro v1,real074,3.1811,3.9047,2.8668
+ar_real,DeepFilterNet3,real074,3.3307,3.8798,2.9943
+ar_real,RNNoise,real074,3.2095,3.666,2.7526
+ar_real,Unprocessed,real080,2.9251,3.3659,2.4438
+ar_real,Hamsa Safi v1 Fast,real080,3.271,4.1277,3.0354
+ar_real,Krisp VIVA Tel v2,real080,2.9017,3.9274,2.6358
+ar_real,Krisp VIVA Pro v1,real080,2.9871,3.8281,2.6712
+ar_real,RNNoise,real077,2.8938,4.101,2.7107
+ar_real,Hush,real077,3.0303,4.1236,2.8433
+ar_real,Unprocessed,real078,3.3016,3.3873,2.7487
+ar_real,Hamsa Safi v1 Fast,real078,3.2863,4.0517,3.0094
+ar_real,DeepFilterNet3,real080,3.2534,4.1337,3.0204
+ar_real,RNNoise,real080,3.0154,3.9506,2.7389
+ar_real,Hush,real080,2.866,3.9453,2.5701
+ar_real,Unprocessed,real081,3.2527,3.3087,2.6666
+ar_real,DeepFilterNet3,real076,3.3978,4.1061,3.1403
+ar_real,RNNoise,real076,3.3372,4.0369,3.0647
+ar_real,Hush,real076,2.7249,3.9401,2.4113
+ar_real,Unprocessed,real077,3.2413,3.2992,2.6337
+ar_real,Hamsa Safi v1 Fast,real081,3.3697,4.1436,3.1456
+ar_real,Krisp VIVA Tel v2,real081,3.2973,3.6922,2.866
+ar_real,Krisp VIVA Pro v1,real081,3.2153,3.67,2.7965
+ar_real,DeepFilterNet3,real081,3.2029,4.0704,2.9629
+ar_real,Unprocessed,real076,3.2745,3.4579,2.7329
+ar_real,Hamsa Safi v1 Fast,real076,3.3255,3.8913,2.9753
+ar_real,Krisp VIVA Tel v2,real076,3.228,4.0457,2.9584
+ar_real,Krisp VIVA Pro v1,real076,3.3042,4.0119,3.0179
+ar_real,Hamsa Safi v1 Fast,real077,3.2226,3.9104,2.9034
+ar_real,Krisp VIVA Tel v2,real077,3.2086,3.9694,2.9072
+ar_real,Krisp VIVA Pro v1,real077,3.2413,3.9002,2.9007
+ar_real,DeepFilterNet3,real077,3.0801,3.8794,2.7734
+ar_real,RNNoise,real081,3.1122,4.0812,2.8945
+ar_real,Hush,real081,3.3371,4.1237,3.0859
+ar_real,Unprocessed,real082,3.0924,3.3651,2.5626
+ar_real,Hamsa Safi v1 Fast,real082,2.6835,3.9685,2.4407
+ar_real,Krisp VIVA Tel v2,real078,3.4012,3.911,3.0558
+ar_real,Krisp VIVA Pro v1,real078,3.2609,3.8891,2.9242
+ar_real,DeepFilterNet3,real078,3.5202,4.1161,3.2637
+ar_real,RNNoise,real078,3.4849,4.0396,3.1963
+ar_real,Krisp VIVA Tel v2,real082,2.5197,3.8609,2.2774
+ar_real,Krisp VIVA Pro v1,real082,2.5473,3.7733,2.2842
+ar_real,DeepFilterNet3,real082,2.6666,3.9561,2.42
+ar_real,RNNoise,real082,2.0345,3.9549,1.8242
+ar_real,Krisp VIVA Pro v1,real079,3.1714,3.9374,2.8536
+ar_real,DeepFilterNet3,real079,3.4693,4.1803,3.2298
+ar_real,RNNoise,real079,3.2455,4.082,2.9985
+ar_real,Hush,real079,3.4597,4.1441,3.1883
+ar_real,Hamsa Safi v1 Fast,real085,2.9511,3.5674,2.4258
+ar_real,Krisp VIVA Tel v2,real085,2.7803,3.9818,2.4909
+ar_real,Krisp VIVA Pro v1,real085,2.8424,3.9032,2.5306
+ar_real,DeepFilterNet3,real085,2.8878,3.912,2.5192
+ar_real,Hush,real078,3.0739,3.9072,2.7572
+ar_real,Unprocessed,real079,3.1622,3.4173,2.6192
+ar_real,Hamsa Safi v1 Fast,real079,3.2271,4.098,2.9615
+ar_real,Krisp VIVA Tel v2,real079,3.2718,4.0527,2.9895
+ar_real,Krisp VIVA Tel v2,real086,3.0745,4.0677,2.8448
+ar_real,Krisp VIVA Pro v1,real086,3.1316,4.0889,2.8852
+ar_real,DeepFilterNet3,real086,3.083,4.0818,2.8427
+ar_real,RNNoise,real086,3.0643,4.0004,2.8108
+ar_real,RNNoise,real085,3.0669,3.339,2.4956
+ar_real,Hush,real085,1.8023,3.7276,1.5249
+ar_real,Unprocessed,real086,2.9289,3.4713,2.4556
+ar_real,Hamsa Safi v1 Fast,real086,2.903,3.9533,2.6511
+ar_real,Hush,real082,2.5945,3.9553,2.3663
+ar_real,Unprocessed,real083,3.4184,3.3736,2.8272
+ar_real,Hamsa Safi v1 Fast,real083,3.4128,3.9937,3.1024
+ar_real,Krisp VIVA Tel v2,real083,3.4829,4.0026,3.1793
+ar_real,Krisp VIVA Pro v1,real083,3.3527,3.8036,2.9636
+ar_real,DeepFilterNet3,real083,3.4811,4.1443,3.2416
+ar_real,RNNoise,real083,3.3884,4.0742,3.1351
+ar_real,Hush,real083,2.9762,4.114,2.7513
+ar_real,DeepFilterNet3,real084,2.6397,3.9025,2.3867
+ar_real,RNNoise,real084,1.8956,3.8846,1.5583
+ar_real,Hush,real084,1.538,3.6771,1.3932
+ar_real,Unprocessed,real085,3.1602,3.4195,2.6117
+ar_real,Unprocessed,real088,3.0626,3.4322,2.562
+ar_real,Hamsa Safi v1 Fast,real088,3.1436,4.0965,2.9286
+ar_real,Krisp VIVA Tel v2,real088,2.8987,3.9819,2.6765
+ar_real,Krisp VIVA Pro v1,real088,3.064,3.684,2.6854
+ar_real,Unprocessed,real084,2.9602,3.4415,2.4654
+ar_real,Hamsa Safi v1 Fast,real084,2.8396,4.0063,2.6031
+ar_real,Krisp VIVA Tel v2,real084,2.8,4.0686,2.5966
+ar_real,Krisp VIVA Pro v1,real084,2.595,3.7187,2.2808
+ar_real,DeepFilterNet3,real088,3.0943,3.9261,2.807
+ar_real,RNNoise,real088,3.0527,3.8666,2.7555
+ar_real,Hush,real088,2.8765,4.008,2.6184
+ar_real,Unprocessed,real089,3.135,3.5088,2.6819
+ar_real,Hush,real086,2.9143,3.8686,2.6288
+ar_real,Unprocessed,real087,3.1918,3.3597,2.6391
+ar_real,Hamsa Safi v1 Fast,real087,3.0844,3.9535,2.7921
+ar_real,Krisp VIVA Tel v2,real087,2.934,3.6713,2.5697
+ar_real,RNNoise,real089,3.2701,3.8058,2.9033
+ar_real,Hush,real089,3.0791,3.8757,2.764
+ar_real,Unprocessed,real090,3.2317,3.4273,2.6931
+ar_real,Hamsa Safi v1 Fast,real090,2.9894,4.1367,2.8002
+ar_real,Krisp VIVA Pro v1,real087,3.1948,3.7931,2.8151
+ar_real,DeepFilterNet3,real087,3.1309,3.9231,2.8059
+ar_real,RNNoise,real087,3.1092,3.7566,2.7344
+ar_real,Hush,real087,2.957,4.0338,2.6103
+ar_real,Hamsa Safi v1 Fast,real089,3.3418,4.0755,3.0731
+ar_real,Krisp VIVA Tel v2,real089,3.1185,3.5249,2.6526
+ar_real,Krisp VIVA Pro v1,real089,3.1466,3.7177,2.7676
+ar_real,DeepFilterNet3,real089,3.4021,4.0793,3.1367
+ar_real,Krisp VIVA Tel v2,real094,2.9905,3.6775,2.6341
+ar_real,Krisp VIVA Pro v1,real094,3.2895,3.8324,2.9188
+ar_real,DeepFilterNet3,real094,3.4214,4.1169,3.1765
+ar_real,RNNoise,real094,3.3241,4.0433,3.057
+ar_real,RNNoise,real093,3.1661,3.5533,2.6801
+ar_real,Hush,real093,2.8685,3.9535,2.567
+ar_real,Unprocessed,real094,3.3337,3.5567,2.8443
+ar_real,Hamsa Safi v1 Fast,real094,3.3879,4.1804,3.1681
+ar_real,Hush,real094,3.0532,4.0232,2.7887
+ar_real,Unprocessed,real095,3.3525,3.618,2.8831
+ar_real,Hamsa Safi v1 Fast,real095,3.3822,4.1327,3.1287
+ar_real,Krisp VIVA Tel v2,real095,3.383,3.9505,3.0563
+ar_real,Krisp VIVA Tel v2,real090,3.1566,4.1005,2.9431
+ar_real,Krisp VIVA Pro v1,real090,3.1094,4.0185,2.848
+ar_real,DeepFilterNet3,real090,3.1557,4.1342,2.9473
+ar_real,RNNoise,real090,2.5677,4.0009,2.3483
+ar_real,DeepFilterNet3,real092,3.1142,3.9332,2.8235
+ar_real,RNNoise,real092,2.8214,3.8679,2.5402
+ar_real,Hush,real092,3.021,4.0828,2.7943
+ar_real,Unprocessed,real093,3.2665,3.4793,2.729
+ar_real,Hamsa Safi v1 Fast,real093,3.2964,4.0326,3.0054
+ar_real,Krisp VIVA Tel v2,real093,3.0848,3.7089,2.6856
+ar_real,Krisp VIVA Pro v1,real093,3.1751,3.7306,2.7772
+ar_real,DeepFilterNet3,real093,3.3394,4.0542,3.0584
+ar_real,Krisp VIVA Pro v1,real095,3.3921,3.9851,3.0801
+ar_real,DeepFilterNet3,real095,3.6286,4.1731,3.3878
+ar_real,RNNoise,real095,3.3344,3.9799,3.0228
+ar_real,Hush,real095,3.0647,3.8809,2.7498
+ar_real,Hush,real090,3.2258,3.8449,2.878
+ar_real,Unprocessed,real091,3.2025,3.3917,2.6593
+ar_real,Hamsa Safi v1 Fast,real091,3.1824,3.6372,2.7566
+ar_real,Krisp VIVA Tel v2,real091,2.9785,3.7685,2.64
+ar_real,Unprocessed,real096,3.083,3.4914,2.6096
+ar_real,Hamsa Safi v1 Fast,real096,3.1889,4.0975,2.9448
+ar_real,Krisp VIVA Tel v2,real096,3.1119,3.9765,2.85
+ar_real,Krisp VIVA Pro v1,real096,2.9529,3.5953,2.5106
+ar_real,Krisp VIVA Pro v1,real091,3.042,3.6679,2.6527
+ar_real,DeepFilterNet3,real091,3.2027,3.856,2.8592
+ar_real,RNNoise,real091,3.1994,3.7058,2.7851
+ar_real,Hush,real091,3.3723,4.0668,3.1165
+ar_real,Krisp VIVA Tel v2,real098,3.5597,4.0454,3.2835
+ar_real,Krisp VIVA Pro v1,real098,3.5494,4.0084,3.2579
+ar_real,DeepFilterNet3,real098,3.6808,4.1751,3.4528
+ar_real,RNNoise,real098,3.6201,4.0952,3.3548
+ar_real,Unprocessed,real092,3.0378,3.4324,2.5385
+ar_real,Hamsa Safi v1 Fast,real092,3.0742,4.01,2.8082
+ar_real,Krisp VIVA Tel v2,real092,3.0721,3.8843,2.7589
+ar_real,Krisp VIVA Pro v1,real092,2.8893,3.8063,2.5747
+ar_real,Krisp VIVA Pro v1,real099,3.449,4.0078,3.1214
+ar_real,DeepFilterNet3,real099,3.4962,4.1097,3.225
+ar_real,RNNoise,real099,3.3949,4.0452,3.1007
+ar_real,Hush,real099,3.4792,4.1199,3.1743
+ar_real,Hush,real098,3.5132,3.9632,3.1397
+ar_real,Unprocessed,real099,3.5453,3.4061,2.8894
+ar_real,Hamsa Safi v1 Fast,real099,3.4577,4.1373,3.1809
+ar_real,Krisp VIVA Tel v2,real099,3.3814,3.8676,3.0047
+ar_real,DeepFilterNet3,real096,3.2372,4.0568,2.9899
+ar_real,RNNoise,real096,3.1286,4.0426,2.8779
+ar_real,Hush,real096,2.9536,3.96,2.619
+ar_real,Unprocessed,real097,3.3039,3.5594,2.7901
+ar_real_tel,Krisp VIVA Tel v2,real002,1.6812,3.8236,1.5557
+ar_real_tel,Krisp VIVA Pro v1,real002,2.7765,3.9493,2.4702
+ar_real_tel,DeepFilterNet3,real002,2.5987,3.9813,2.2807
+ar_real_tel,RNNoise,real002,1.9633,3.8168,1.6022
+ar_real,RNNoise,real097,3.4199,4.1095,3.1686
+ar_real,Hush,real097,3.3097,4.1121,3.0506
+ar_real,Unprocessed,real098,3.627,3.4872,3.0285
+ar_real,Hamsa Safi v1 Fast,real098,3.654,4.1307,3.4179
+ar_real_tel,RNNoise,real001,2.9922,3.3971,2.4966
+ar_real_tel,Hush,real001,2.2025,3.8065,1.9551
+ar_real_tel,Unprocessed,real002,3.1214,3.5726,2.6038
+ar_real_tel,Hamsa Safi v1 Fast,real002,2.381,4.078,2.1072
+ar_real_tel,Unprocessed,real004,2.7655,3.0784,2.1731
+ar_real_tel,Hamsa Safi v1 Fast,real004,1.8227,3.8296,1.586
+ar_real_tel,Krisp VIVA Tel v2,real004,2.653,4.0262,2.4201
+ar_real_tel,Krisp VIVA Pro v1,real004,2.5242,3.9827,2.2934
+ar_real,Hamsa Safi v1 Fast,real097,3.1617,3.795,2.7748
+ar_real,Krisp VIVA Tel v2,real097,3.2318,3.9184,2.9045
+ar_real,Krisp VIVA Pro v1,real097,3.4213,4.104,3.1589
+ar_real,DeepFilterNet3,real097,3.3691,3.6358,2.8584
+ar_real_tel,Hush,real002,1.8574,3.9845,1.6474
+ar_real_tel,Unprocessed,real003,3.0373,2.6499,2.2645
+ar_real_tel,Hamsa Safi v1 Fast,real003,2.818,3.8969,2.5709
+ar_real_tel,Krisp VIVA Tel v2,real003,2.4255,3.7885,2.2093
+ar_real_tel,DeepFilterNet3,real000,2.6515,3.79,2.3962
+ar_real_tel,RNNoise,real000,1.8306,3.8593,1.5788
+ar_real_tel,Hush,real000,1.9344,3.7008,1.7761
+ar_real_tel,Unprocessed,real001,3.1293,2.4353,2.1286
+ar_real_tel,Hamsa Safi v1 Fast,real001,2.3787,3.9264,2.1078
+ar_real_tel,Krisp VIVA Tel v2,real001,2.6019,3.4115,2.1967
+ar_real_tel,Krisp VIVA Pro v1,real001,2.7876,3.599,2.4322
+ar_real_tel,DeepFilterNet3,real001,2.8224,4.0401,2.6107
+ar_real_tel,Unprocessed,real000,3.0225,2.4611,2.1906
+ar_real_tel,Hamsa Safi v1 Fast,real000,1.7766,3.5543,1.4776
+ar_real_tel,Krisp VIVA Tel v2,real000,2.6668,3.5589,2.3366
+ar_real_tel,Krisp VIVA Pro v1,real000,2.4298,3.5298,2.1381
+ar_real_tel,Krisp VIVA Pro v1,real003,2.4211,3.742,2.1657
+ar_real_tel,DeepFilterNet3,real003,2.885,3.8594,2.6091
+ar_real_tel,RNNoise,real003,2.7782,3.7911,2.4761
+ar_real_tel,Hush,real003,2.0687,3.7694,1.8685
+ar_real_tel,Hamsa Safi v1 Fast,real005,3.2241,3.9598,2.9057
+ar_real_tel,Krisp VIVA Tel v2,real005,3.0934,3.7153,2.6866
+ar_real_tel,Krisp VIVA Pro v1,real005,2.5746,3.6309,2.2619
+ar_real_tel,DeepFilterNet3,real005,3.1622,4.0106,2.8539
+ar_real_tel,DeepFilterNet3,real004,2.2721,4.0428,2.0982
+ar_real_tel,RNNoise,real004,2.482,3.9649,2.2561
+ar_real_tel,Hush,real004,1.5985,3.7191,1.4817
+ar_real_tel,Unprocessed,real005,3.2932,2.8744,2.4683
+ar_real_tel,RNNoise,real005,1.9962,3.996,1.7614
+ar_real_tel,Hush,real005,2.7298,3.8758,2.4222
+ar_real_tel,Unprocessed,real006,2.6148,2.8763,2.0908
+ar_real_tel,Hamsa Safi v1 Fast,real006,2.2138,3.9989,1.9673
+ar_real_tel,Krisp VIVA Pro v1,real007,2.783,4.0663,2.5227
+ar_real_tel,DeepFilterNet3,real007,2.722,4.1165,2.4839
+ar_real_tel,RNNoise,real007,1.7732,3.8023,1.5113
+ar_real_tel,Hush,real007,1.7677,3.902,1.6129
+ar_real_tel,Hush,real006,1.8439,3.7764,1.7123
+ar_real_tel,Unprocessed,real007,3.1782,3.9303,2.8653
+ar_real_tel,Hamsa Safi v1 Fast,real007,2.6636,4.1095,2.3946
+ar_real_tel,Krisp VIVA Tel v2,real007,2.4828,4.0401,2.1969
+ar_real_tel,Krisp VIVA Tel v2,real006,2.3967,3.4812,2.0776
+ar_real_tel,Krisp VIVA Pro v1,real006,2.4574,3.6646,2.1682
+ar_real_tel,DeepFilterNet3,real006,2.3225,3.9074,2.1285
+ar_real_tel,RNNoise,real006,2.4075,3.6743,2.1555
+ar_real_tel,Unprocessed,real008,3.411,2.9907,2.6193
+ar_real_tel,Hamsa Safi v1 Fast,real008,3.2288,4.0463,2.9627
+ar_real_tel,Krisp VIVA Tel v2,real008,3.0915,4.0168,2.833
+ar_real_tel,Krisp VIVA Pro v1,real008,3.0369,3.9583,2.7634
+ar_real_tel,Hamsa Safi v1 Fast,real009,3.0129,4.1059,2.7773
+ar_real_tel,Krisp VIVA Tel v2,real009,2.8812,3.9606,2.6166
+ar_real_tel,Krisp VIVA Pro v1,real009,2.7921,3.9553,2.5345
+ar_real_tel,DeepFilterNet3,real009,2.9535,4.1035,2.7293
+ar_real_tel,DeepFilterNet3,real008,3.2426,4.0801,3.0033
+ar_real_tel,RNNoise,real008,1.9688,3.7923,1.7586
+ar_real_tel,Hush,real008,2.3991,3.6933,2.1416
+ar_real_tel,Unprocessed,real009,3.1777,2.8859,2.4551
+ar_real_tel,RNNoise,real009,1.8467,3.8184,1.5944
+ar_real_tel,Hush,real009,1.8785,3.8973,1.7298
+ar_real_tel,Unprocessed,real010,3.1564,3.0798,2.5193
+ar_real_tel,Hamsa Safi v1 Fast,real010,3.2277,3.8339,2.8782
+ar_real_tel,Krisp VIVA Pro v1,real011,2.6625,3.7076,2.3456
+ar_real_tel,DeepFilterNet3,real011,2.5764,3.6845,2.2265
+ar_real_tel,RNNoise,real011,2.5776,3.639,2.2201
+ar_real_tel,Hush,real011,1.9351,3.5341,1.6705
+ar_real_tel,Hush,real010,2.8201,3.6839,2.4886
+ar_real_tel,Unprocessed,real011,3.1288,2.9954,2.4495
+ar_real_tel,Hamsa Safi v1 Fast,real011,2.6566,3.7867,2.3525
+ar_real_tel,Krisp VIVA Tel v2,real011,2.4212,3.814,2.1495
+ar_real_tel,Krisp VIVA Tel v2,real014,2.978,4.0083,2.6946
+ar_real_tel,Krisp VIVA Pro v1,real014,2.9652,3.9373,2.6638
+ar_real_tel,DeepFilterNet3,real014,3.0916,4.0562,2.835
+ar_real_tel,RNNoise,real014,3.0649,3.9718,2.7624
+ar_real_tel,RNNoise,real013,3.0089,3.7447,2.6549
+ar_real_tel,Hush,real013,3.0755,3.9311,2.8137
+ar_real_tel,Unprocessed,real014,3.1494,3.059,2.4489
+ar_real_tel,Hamsa Safi v1 Fast,real014,3.0703,3.9314,2.7806
+ar_real_tel,Hush,real014,2.2665,3.6571,1.9455
+ar_real_tel,Unprocessed,real015,3.0034,3.1102,2.4065
+ar_real_tel,Hamsa Safi v1 Fast,real015,3.0453,4.0625,2.8215
+ar_real_tel,Krisp VIVA Tel v2,real015,3.1645,4.0498,2.9225
+ar_real_tel,Krisp VIVA Tel v2,real010,3.0489,3.7491,2.6973
+ar_real_tel,Krisp VIVA Pro v1,real010,3.0756,3.6415,2.6837
+ar_real_tel,DeepFilterNet3,real010,3.1086,3.8933,2.8167
+ar_real_tel,RNNoise,real010,2.0536,3.7675,1.8537
+ar_real_tel,Krisp VIVA Pro v1,real015,3.2358,4.0841,2.9961
+ar_real_tel,DeepFilterNet3,real015,3.0375,4.0765,2.8235
+ar_real_tel,RNNoise,real015,3.0381,4.0187,2.8008
+ar_real_tel,Hush,real015,2.9683,3.8774,2.6672
+ar_real_tel,Hamsa Safi v1 Fast,real013,3.1,3.9606,2.8225
+ar_real_tel,Krisp VIVA Tel v2,real013,2.8062,3.8806,2.5434
+ar_real_tel,Krisp VIVA Pro v1,real013,3.159,4.0106,2.8912
+ar_real_tel,DeepFilterNet3,real013,2.9581,3.6461,2.5844
+ar_real_tel,Unprocessed,real012,3.0796,2.9004,2.3609
+ar_real_tel,Hamsa Safi v1 Fast,real012,2.9494,4.0657,2.6911
+ar_real_tel,Krisp VIVA Tel v2,real012,2.8982,3.9932,2.6399
+ar_real_tel,Krisp VIVA Pro v1,real012,2.8995,3.9063,2.5924
+ar_real_tel,DeepFilterNet3,real012,2.8447,3.9433,2.5606
+ar_real_tel,RNNoise,real012,2.6103,3.5636,2.2153
+ar_real_tel,Hush,real012,2.3991,3.8939,2.1588
+ar_real_tel,Unprocessed,real013,2.9175,3.0277,2.2975
+ar_real_tel,Unprocessed,real020,3.1615,3.1324,2.4929
+ar_real_tel,Hamsa Safi v1 Fast,real020,3.1565,3.9958,2.8623
+ar_real_tel,Krisp VIVA Tel v2,real020,3.0769,3.7585,2.7047
+ar_real_tel,Krisp VIVA Pro v1,real020,3.1021,3.9306,2.7936
+ar_real_tel,Unprocessed,real016,2.9517,3.2506,2.4674
+ar_real_tel,Hamsa Safi v1 Fast,real016,2.9309,4.0437,2.7095
+ar_real_tel,Krisp VIVA Tel v2,real016,2.6188,3.8281,2.3672
+ar_real_tel,Krisp VIVA Pro v1,real016,2.4118,3.4352,2.0942
+ar_real_tel,DeepFilterNet3,real020,3.2092,4.0188,2.9222
+ar_real_tel,RNNoise,real020,3.0735,3.7654,2.6999
+ar_real_tel,Hush,real020,2.8895,3.9749,2.5759
+ar_real_tel,Unprocessed,real021,3.2971,3.389,2.7556
+ar_real_tel,Hamsa Safi v1 Fast,real021,2.5837,4.0349,2.3953
+ar_real_tel,Krisp VIVA Tel v2,real021,2.8122,4.0748,2.6081
+ar_real_tel,Krisp VIVA Pro v1,real021,2.7367,4.0702,2.5459
+ar_real_tel,DeepFilterNet3,real021,2.7606,4.0409,2.5507
+ar_real_tel,DeepFilterNet3,real016,2.296,3.9052,2.0993
+ar_real_tel,RNNoise,real016,2.8039,3.9749,2.505
+ar_real_tel,Hush,real016,2.77,3.7872,2.4611
+ar_real_tel,Unprocessed,real017,3.5748,3.3805,2.9015
+ar_real_tel,RNNoise,real017,2.6334,3.7493,2.2635
+ar_real_tel,Hush,real017,1.7,3.6832,1.5559
+ar_real_tel,Unprocessed,real018,3.3464,3.1713,2.649
+ar_real_tel,Hamsa Safi v1 Fast,real018,3.4514,4.0228,3.1191
+ar_real_tel,Hamsa Safi v1 Fast,real017,3.5236,4.1666,3.2511
+ar_real_tel,Krisp VIVA Tel v2,real017,3.4416,4.0518,3.1308
+ar_real_tel,Krisp VIVA Pro v1,real017,3.4954,4.0621,3.1743
+ar_real_tel,DeepFilterNet3,real017,1.9179,3.9025,1.6165
+ar_real_tel,Krisp VIVA Tel v2,real018,3.0968,3.7313,2.7221
+ar_real_tel,Krisp VIVA Pro v1,real018,3.1223,3.6847,2.7075
+ar_real_tel,DeepFilterNet3,real018,2.9261,3.9651,2.619
+ar_real_tel,RNNoise,real018,3.3501,3.8683,2.947
+ar_real_tel,Hush,real018,2.1279,3.8626,1.8895
+ar_real_tel,Unprocessed,real019,2.995,3.4277,2.5528
+ar_real_tel,Hamsa Safi v1 Fast,real019,2.2524,4.0333,2.0609
+ar_real_tel,Krisp VIVA Tel v2,real019,2.2485,3.6338,1.9805
+ar_real_tel,Unprocessed,real024,2.5418,2.5815,1.8858
+ar_real_tel,Hamsa Safi v1 Fast,real024,2.6528,3.8637,2.389
+ar_real_tel,Krisp VIVA Tel v2,real024,2.4748,3.434,2.1207
+ar_real_tel,Krisp VIVA Pro v1,real024,2.6134,3.8614,2.3713
+ar_real_tel,Krisp VIVA Pro v1,real019,2.4569,3.7182,2.1412
+ar_real_tel,DeepFilterNet3,real019,2.1917,3.7721,1.974
+ar_real_tel,RNNoise,real019,1.8757,3.7898,1.6648
+ar_real_tel,Hush,real019,1.9117,3.7029,1.6461
+ar_real_tel,DeepFilterNet3,real024,2.8147,3.5267,2.3942
+ar_real_tel,RNNoise,real024,2.6402,3.331,2.1841
+ar_real_tel,Hush,real024,2.65,3.9224,2.3674
+ar_real_tel,Unprocessed,real025,3.2974,2.9895,2.5862
+ar_real_tel,RNNoise,real021,2.8145,4.0136,2.6051
+ar_real_tel,Hush,real021,2.59,3.9739,2.3176
+ar_real_tel,Unprocessed,real022,3.3088,2.8156,2.4646
+ar_real_tel,Hamsa Safi v1 Fast,real022,3.093,4.0948,2.8711
+ar_real_tel,Krisp VIVA Pro v1,real027,3.1095,3.8723,2.7791
+ar_real_tel,DeepFilterNet3,real027,2.6975,3.9174,2.4961
+ar_real_tel,RNNoise,real027,2.9533,3.6085,2.5475
+ar_real_tel,Hush,real027,2.2703,3.8404,2.0813
+ar_real_tel,Hush,real026,1.7424,3.5783,1.6302
+ar_real_tel,Unprocessed,real027,3.1343,3.5778,2.706
+ar_real_tel,Hamsa Safi v1 Fast,real027,2.0819,3.8906,1.8322
+ar_real_tel,Krisp VIVA Tel v2,real027,1.6288,3.8034,1.5024
+ar_real_tel,Krisp VIVA Pro v1,real023,2.4304,3.9024,2.2107
+ar_real_tel,DeepFilterNet3,real023,2.882,4.0658,2.6422
+ar_real_tel,RNNoise,real023,1.9701,3.7139,1.7283
+ar_real_tel,Hush,real023,2.2832,3.9191,2.0155
+ar_real_tel,Hush,real022,2.8823,4.0378,2.6493
+ar_real_tel,Unprocessed,real023,3.1894,3.7888,2.7992
+ar_real_tel,Hamsa Safi v1 Fast,real023,3.0973,4.0587,2.8304
+ar_real_tel,Krisp VIVA Tel v2,real023,2.8948,4.0532,2.657
+ar_real_tel,Krisp VIVA Tel v2,real022,2.9416,3.9381,2.6853
+ar_real_tel,Krisp VIVA Pro v1,real022,2.9945,3.9801,2.7377
+ar_real_tel,DeepFilterNet3,real022,2.9055,4.0368,2.6603
+ar_real_tel,RNNoise,real022,2.9881,3.8809,2.6947
+ar_real_tel,Hamsa Safi v1 Fast,real025,3.4122,4.1684,3.1977
+ar_real_tel,Krisp VIVA Tel v2,real025,3.2848,4.0768,3.0458
+ar_real_tel,Krisp VIVA Pro v1,real025,3.4197,4.1504,3.2024
+ar_real_tel,DeepFilterNet3,real025,3.2658,3.9853,2.9795
+ar_real_tel,RNNoise,real025,3.0521,3.9388,2.7708
+ar_real_tel,Hush,real025,3.1324,4.0051,2.8311
+ar_real_tel,Unprocessed,real026,3.0933,2.7222,2.3596
+ar_real_tel,Hamsa Safi v1 Fast,real026,3.1037,4.0383,2.8738
+ar_real_tel,Krisp VIVA Tel v2,real030,2.6398,4.062,2.3828
+ar_real_tel,Krisp VIVA Pro v1,real030,2.7395,4.0166,2.4622
+ar_real_tel,DeepFilterNet3,real030,2.7775,3.9027,2.4717
+ar_real_tel,RNNoise,real030,2.9838,4.0931,2.7157
+ar_real_tel,Krisp VIVA Tel v2,real026,2.4066,3.4933,2.1145
+ar_real_tel,Krisp VIVA Pro v1,real026,2.3459,3.6407,2.0872
+ar_real_tel,DeepFilterNet3,real026,2.5346,3.8643,2.2907
+ar_real_tel,RNNoise,real026,2.5148,3.6766,2.2528
+ar_real_tel,RNNoise,real029,3.2315,4.0778,2.9932
+ar_real_tel,Hush,real029,2.8022,4.1032,2.5842
+ar_real_tel,Unprocessed,real030,3.137,3.5397,2.6402
+ar_real_tel,Hamsa Safi v1 Fast,real030,3.1201,4.1465,2.8782
+ar_real_tel,Unprocessed,real028,3.309,3.2168,2.7053
+ar_real_tel,Hamsa Safi v1 Fast,real028,3.0665,3.7355,2.6776
+ar_real_tel,Krisp VIVA Tel v2,real028,3.0721,3.8157,2.7317
+ar_real_tel,Krisp VIVA Pro v1,real028,3.0704,3.8267,2.7307
+ar_real_tel,DeepFilterNet3,real028,3.0893,3.8547,2.7529
+ar_real_tel,RNNoise,real028,2.0336,3.1362,1.7038
+ar_real_tel,Hush,real028,2.3801,3.8788,2.1402
+ar_real_tel,Unprocessed,real029,3.1415,3.6106,2.7242
+ar_real_tel,Hush,real030,2.0325,4.046,1.8381
+ar_real_tel,Unprocessed,real031,3.2185,3.1611,2.5672
+ar_real_tel,Hamsa Safi v1 Fast,real031,2.949,3.7838,2.583
+ar_real_tel,Krisp VIVA Tel v2,real031,2.4422,3.8971,2.2441
+ar_real_tel,Hamsa Safi v1 Fast,real029,3.3424,4.1061,3.1092
+ar_real_tel,Krisp VIVA Tel v2,real029,3.2839,4.1333,3.0834
+ar_real_tel,Krisp VIVA Pro v1,real029,3.3021,4.074,3.0732
+ar_real_tel,DeepFilterNet3,real029,3.4042,4.151,3.1792
+ar_real_tel,Krisp VIVA Tel v2,real034,2.8201,3.8728,2.5521
+ar_real_tel,Krisp VIVA Pro v1,real034,2.8041,3.952,2.585
+ar_real_tel,DeepFilterNet3,real034,2.7298,3.7116,2.4587
+ar_real_tel,RNNoise,real034,2.5898,3.5373,2.2868
+ar_real_tel,Krisp VIVA Pro v1,real031,3.1609,3.7111,2.7314
+ar_real_tel,DeepFilterNet3,real031,2.7587,3.8169,2.4818
+ar_real_tel,RNNoise,real031,1.7663,3.9298,1.4792
+ar_real_tel,Hush,real031,1.8577,3.8336,1.7021
+ar_real_tel,DeepFilterNet3,real032,2.4335,3.94,2.2066
+ar_real_tel,RNNoise,real032,1.6792,3.8673,1.5151
+ar_real_tel,Hush,real032,1.7985,3.9427,1.6893
+ar_real_tel,Unprocessed,real033,3.2707,3.0739,2.5744
+ar_real_tel,RNNoise,real033,1.8222,3.9336,1.6131
+ar_real_tel,Hush,real033,2.0246,3.7223,1.7759
+ar_real_tel,Unprocessed,real034,2.6729,2.9724,2.1543
+ar_real_tel,Hamsa Safi v1 Fast,real034,2.7273,3.6446,2.4314
+ar_real_tel,Unprocessed,real032,3.2889,3.3007,2.6432
+ar_real_tel,Hamsa Safi v1 Fast,real032,3.0435,3.795,2.6918
+ar_real_tel,Krisp VIVA Tel v2,real032,2.8517,3.9041,2.5726
+ar_real_tel,Krisp VIVA Pro v1,real032,2.9977,3.8789,2.6812
+ar_real_tel,Unprocessed,real036,3.0683,3.6815,2.6095
+ar_real_tel,Hamsa Safi v1 Fast,real036,2.9977,3.7567,2.6041
+ar_real_tel,Krisp VIVA Tel v2,real036,3.0825,3.9801,2.7953
+ar_real_tel,Krisp VIVA Pro v1,real036,2.8935,3.7584,2.5492
+ar_real_tel,Hamsa Safi v1 Fast,real033,3.0396,4.0179,2.7841
+ar_real_tel,Krisp VIVA Tel v2,real033,2.8949,3.8682,2.6001
+ar_real_tel,Krisp VIVA Pro v1,real033,2.9992,3.8559,2.6866
+ar_real_tel,DeepFilterNet3,real033,3.0851,4.0955,2.8565
+ar_real_tel,DeepFilterNet3,real036,2.9383,3.4684,2.4704
+ar_real_tel,RNNoise,real036,2.9185,3.9422,2.6312
+ar_real_tel,Hush,real036,2.2648,3.5936,1.946
+ar_real_tel,Unprocessed,real037,3.2107,2.9125,2.4364
+ar_real_tel,Unprocessed,real040,3.1116,3.703,2.6852
+ar_real_tel,Hamsa Safi v1 Fast,real040,3.0771,3.6485,2.6542
+ar_real_tel,Krisp VIVA Tel v2,real040,3.0417,3.8085,2.6916
+ar_real_tel,Krisp VIVA Pro v1,real040,3.125,3.7018,2.6868
+ar_real_tel,Krisp VIVA Tel v2,real038,3.1926,3.7853,2.8375
+ar_real_tel,Krisp VIVA Pro v1,real038,3.2867,3.7838,2.9094
+ar_real_tel,DeepFilterNet3,real038,3.0462,4.0441,2.7898
+ar_real_tel,RNNoise,real038,1.9553,3.8807,1.7415
+ar_real_tel,Hush,real034,2.6321,3.6096,2.3492
+ar_real_tel,Unprocessed,real035,2.8707,2.908,2.2149
+ar_real_tel,Hamsa Safi v1 Fast,real035,2.9576,3.9648,2.7146
+ar_real_tel,Krisp VIVA Tel v2,real035,3.0021,3.8271,2.6551
+ar_real_tel,Krisp VIVA Pro v1,real035,2.8219,3.9841,2.6035
+ar_real_tel,DeepFilterNet3,real035,3.0406,3.9547,2.7687
+ar_real_tel,RNNoise,real035,2.9859,3.9063,2.7216
+ar_real_tel,Hush,real035,3.3667,4.0847,3.095
+ar_real_tel,RNNoise,real037,2.9133,3.7487,2.5628
+ar_real_tel,Hush,real037,2.6437,3.7426,2.3421
+ar_real_tel,Unprocessed,real038,3.4594,3.1613,2.7588
+ar_real_tel,Hamsa Safi v1 Fast,real038,3.0033,4.0383,2.761
+ar_real_tel,Hamsa Safi v1 Fast,real037,3.1723,3.9821,2.8875
+ar_real_tel,Krisp VIVA Tel v2,real037,3.0665,4.0177,2.8108
+ar_real_tel,Krisp VIVA Pro v1,real037,3.0957,3.9902,2.8269
+ar_real_tel,DeepFilterNet3,real037,3.402,4.0763,3.1204
+ar_real_tel,DeepFilterNet3,real040,2.6106,3.8366,2.3097
+ar_real_tel,RNNoise,real040,2.8608,3.6849,2.4916
+ar_real_tel,Hush,real040,1.5003,3.6562,1.3856
+ar_real_tel,Unprocessed,real041,3.428,3.2906,2.772
+ar_real_tel,Krisp VIVA Pro v1,real043,2.9872,3.7547,2.6121
+ar_real_tel,DeepFilterNet3,real043,2.8542,3.9766,2.5435
+ar_real_tel,RNNoise,real043,2.2809,4.0206,1.968
+ar_real_tel,Hush,real043,1.6151,3.8313,1.4858
+ar_real_tel,Hush,real038,2.487,3.5707,2.1645
+ar_real_tel,Unprocessed,real039,3.5001,3.0165,2.7554
+ar_real_tel,Hamsa Safi v1 Fast,real039,3.5205,4.1696,3.2807
+ar_real_tel,Krisp VIVA Tel v2,real039,3.3609,4.084,3.1012
+ar_real_tel,Hush,real042,2.052,3.7027,1.6858
+ar_real_tel,Unprocessed,real043,3.1804,3.274,2.5755
+ar_real_tel,Hamsa Safi v1 Fast,real043,3.1985,3.5304,2.6617
+ar_real_tel,Krisp VIVA Tel v2,real043,2.7773,3.4228,2.3185
+ar_real_tel,Unprocessed,real044,3.1294,2.8797,2.2733
+ar_real_tel,Hamsa Safi v1 Fast,real044,3.1155,3.8733,2.8001
+ar_real_tel,Krisp VIVA Tel v2,real044,3.1648,3.6261,2.6656
+ar_real_tel,Krisp VIVA Pro v1,real044,2.9452,3.7101,2.5821
+ar_real_tel,Krisp VIVA Pro v1,real039,3.3583,4.0687,3.0892
+ar_real_tel,DeepFilterNet3,real039,3.1924,3.8684,2.8753
+ar_real_tel,RNNoise,real039,1.733,3.7947,1.4898
+ar_real_tel,Hush,real039,3.0998,4.0345,2.82
+ar_real_tel,DeepFilterNet3,real044,2.8461,4.0865,2.6543
+ar_real_tel,RNNoise,real044,2.9192,3.33,2.3586
+ar_real_tel,Hush,real044,2.8214,3.9984,2.5631
+ar_real_tel,Unprocessed,real045,3.0576,3.3078,2.5682
+ar_real_tel,Krisp VIVA Tel v2,real042,3.2002,3.771,2.8143
+ar_real_tel,Krisp VIVA Pro v1,real042,2.9865,3.4176,2.4771
+ar_real_tel,DeepFilterNet3,real042,2.9793,3.7298,2.6117
+ar_real_tel,RNNoise,real042,2.3655,3.7028,2.0854
+ar_real_tel,RNNoise,real041,1.7219,3.8592,1.4725
+ar_real_tel,Hush,real041,2.5218,3.7271,2.2032
+ar_real_tel,Unprocessed,real042,3.259,2.8706,2.457
+ar_real_tel,Hamsa Safi v1 Fast,real042,3.1233,3.969,2.8258
+ar_real_tel,Hamsa Safi v1 Fast,real041,3.414,4.1007,3.1305
+ar_real_tel,Krisp VIVA Tel v2,real041,3.2408,4.1044,2.9838
+ar_real_tel,Krisp VIVA Pro v1,real041,3.0221,3.8631,2.6845
+ar_real_tel,DeepFilterNet3,real041,2.3757,3.729,2.0482
+ar_real_tel,Hamsa Safi v1 Fast,real045,2.5616,4.0167,2.3146
+ar_real_tel,Krisp VIVA Tel v2,real045,2.836,3.9911,2.5846
+ar_real_tel,Krisp VIVA Pro v1,real045,2.3421,3.797,2.1014
+ar_real_tel,DeepFilterNet3,real045,2.5806,3.9579,2.3458
+ar_real_tel,RNNoise,real045,2.121,3.9238,1.9738
+ar_real_tel,Hush,real045,2.2662,3.8812,2.0555
+ar_real_tel,Unprocessed,real046,2.6787,2.9995,2.1864
+ar_real_tel,Hamsa Safi v1 Fast,real046,2.5864,3.8611,2.3995
+ar_real_tel,Hush,real046,2.4211,3.934,2.2163
+ar_real_tel,Unprocessed,real047,3.2511,3.5083,2.8096
+ar_real_tel,Hamsa Safi v1 Fast,real047,3.497,4.1527,3.2622
+ar_real_tel,Krisp VIVA Tel v2,real047,3.2841,4.0236,3.0145
+ar_real_tel,Krisp VIVA Tel v2,real046,2.7257,3.8329,2.5043
+ar_real_tel,Krisp VIVA Pro v1,real046,2.5439,3.6914,2.3119
+ar_real_tel,DeepFilterNet3,real046,2.283,3.7399,2.0661
+ar_real_tel,RNNoise,real046,2.4002,3.5907,2.1508
+ar_real_tel,Krisp VIVA Tel v2,real050,2.9396,4.0226,2.6838
+ar_real_tel,Krisp VIVA Pro v1,real050,2.8481,3.9663,2.5975
+ar_real_tel,DeepFilterNet3,real050,3.0023,4.1273,2.789
+ar_real_tel,RNNoise,real050,1.8585,3.951,1.6361
+ar_real_tel,Krisp VIVA Pro v1,real047,3.361,3.9429,3.0593
+ar_real_tel,DeepFilterNet3,real047,3.2718,4.1159,3.048
+ar_real_tel,RNNoise,real047,3.2228,3.9407,2.935
+ar_real_tel,Hush,real047,3.0811,4.0339,2.7904
+ar_real_tel,Hush,real050,2.4576,3.9904,2.2421
+ar_real_tel,Unprocessed,real051,2.8315,3.0417,2.283
+ar_real_tel,Hamsa Safi v1 Fast,real051,3.2291,3.9057,2.9349
+ar_real_tel,Krisp VIVA Tel v2,real051,2.7359,3.6587,2.4217
+ar_real_tel,RNNoise,real049,3.1419,3.8268,2.7775
+ar_real_tel,Hush,real049,2.7321,3.9107,2.4929
+ar_real_tel,Unprocessed,real050,2.964,3.5397,2.5576
+ar_real_tel,Hamsa Safi v1 Fast,real050,2.9493,4.0793,2.7391
+ar_real_tel,Unprocessed,real048,3.5116,4.0575,3.2123
+ar_real_tel,Hamsa Safi v1 Fast,real048,3.4625,3.945,3.0991
+ar_real_tel,Krisp VIVA Tel v2,real048,3.4712,3.9464,3.1337
+ar_real_tel,Krisp VIVA Pro v1,real048,3.525,4.0712,3.2413
+ar_real_tel,Hamsa Safi v1 Fast,real053,2.0614,4.0562,1.9331
+ar_real_tel,Krisp VIVA Tel v2,real053,1.9682,4.0447,1.8397
+ar_real_tel,Krisp VIVA Pro v1,real053,2.0149,4.0686,1.8796
+ar_real_tel,DeepFilterNet3,real053,2.0373,4.0385,1.9092
+ar_real_tel,DeepFilterNet3,real048,3.5207,4.1192,3.2539
+ar_real_tel,RNNoise,real048,1.9902,3.8688,1.7547
+ar_real_tel,Hush,real048,2.3294,3.5324,1.9374
+ar_real_tel,Unprocessed,real049,3.1307,3.3319,2.595
+ar_real_tel,Krisp VIVA Pro v1,real051,2.7695,3.6541,2.4258
+ar_real_tel,DeepFilterNet3,real051,2.9317,3.8001,2.6317
+ar_real_tel,RNNoise,real051,2.9663,3.6259,2.5904
+ar_real_tel,Hush,real051,3.147,3.5316,2.6746
+ar_real_tel,RNNoise,real053,1.6224,3.8282,1.5323
+ar_real_tel,Hush,real053,1.6461,4.002,1.5685
+ar_real_tel,Unprocessed,real054,2.9323,3.3204,2.444
+ar_real_tel,Hamsa Safi v1 Fast,real054,2.9341,3.541,2.5173
+ar_real_tel,Krisp VIVA Pro v1,real055,3.2157,3.9775,2.9182
+ar_real_tel,DeepFilterNet3,real055,3.4073,4.1628,3.1643
+ar_real_tel,RNNoise,real055,3.33,3.9609,3.0083
+ar_real_tel,Hush,real055,2.92,4.0804,2.6447
+ar_real_tel,DeepFilterNet3,real052,2.9666,3.955,2.6793
+ar_real_tel,RNNoise,real052,2.6188,3.5712,2.2612
+ar_real_tel,Hush,real052,1.9396,3.6837,1.7481
+ar_real_tel,Unprocessed,real053,2.0647,3.3811,1.7863
+ar_real_tel,Hamsa Safi v1 Fast,real049,3.3695,4.0307,3.0888
+ar_real_tel,Krisp VIVA Tel v2,real049,2.9641,3.8381,2.6598
+ar_real_tel,Krisp VIVA Pro v1,real049,2.9114,3.8916,2.6366
+ar_real_tel,DeepFilterNet3,real049,3.1019,3.9204,2.805
+ar_real_tel,Hush,real054,2.8601,3.7681,2.5462
+ar_real_tel,Unprocessed,real055,3.3239,3.5895,2.82
+ar_real_tel,Hamsa Safi v1 Fast,real055,3.4558,4.1615,3.2008
+ar_real_tel,Krisp VIVA Tel v2,real055,3.2253,3.8279,2.8586
+ar_real_tel,Hamsa Safi v1 Fast,real057,3.1336,4.1546,2.9274
+ar_real_tel,Krisp VIVA Tel v2,real057,2.9411,3.9997,2.7071
+ar_real_tel,Krisp VIVA Pro v1,real057,2.9239,3.9849,2.6915
+ar_real_tel,DeepFilterNet3,real057,2.964,3.9527,2.7023
+ar_real_tel,Unprocessed,real052,2.9883,3.3587,2.4889
+ar_real_tel,Hamsa Safi v1 Fast,real052,2.8276,3.8976,2.5343
+ar_real_tel,Krisp VIVA Tel v2,real052,2.7532,3.7177,2.441
+ar_real_tel,Krisp VIVA Pro v1,real052,2.8298,3.9128,2.5494
+ar_real_tel,Krisp VIVA Tel v2,real054,2.9071,3.7095,2.5501
+ar_real_tel,Krisp VIVA Pro v1,real054,2.8709,3.612,2.4687
+ar_real_tel,DeepFilterNet3,real054,2.8377,3.4954,2.4278
+ar_real_tel,RNNoise,real054,2.8473,3.2856,2.2778
+ar_real_tel,RNNoise,real057,1.7701,3.8466,1.5213
+ar_real_tel,Hush,real057,2.1133,4.0094,1.958
+ar_real_tel,Unprocessed,real058,2.9787,3.0311,2.3467
+ar_real_tel,Hamsa Safi v1 Fast,real058,1.7808,3.8713,1.5172
+ar_real_tel,Unprocessed,real060,2.9002,3.2126,2.2872
+ar_real_tel,Hamsa Safi v1 Fast,real060,3.0241,3.9997,2.7405
+ar_real_tel,Krisp VIVA Tel v2,real060,2.7558,3.8809,2.495
+ar_real_tel,Krisp VIVA Pro v1,real060,2.813,3.6219,2.4581
+ar_real_tel,Krisp VIVA Tel v2,real058,2.6848,3.58,2.3505
+ar_real_tel,Krisp VIVA Pro v1,real058,2.9122,3.7853,2.6087
+ar_real_tel,DeepFilterNet3,real058,2.0177,3.9344,1.8588
+ar_real_tel,RNNoise,real058,2.0254,3.8364,1.8417
+ar_real_tel,DeepFilterNet3,real060,2.4601,3.9234,2.2461
+ar_real_tel,RNNoise,real060,2.4468,3.8505,2.2392
+ar_real_tel,Hush,real060,2.2546,3.9077,2.0358
+ar_real_tel,Unprocessed,real061,3.0956,3.499,2.6356
+ar_real_tel,Krisp VIVA Tel v2,real062,2.8989,3.5436,2.4989
+ar_real_tel,Krisp VIVA Pro v1,real062,2.8475,3.2962,2.3783
+ar_real_tel,DeepFilterNet3,real062,2.7033,3.87,2.4503
+ar_real_tel,RNNoise,real062,2.9545,3.8702,2.6184
+ar_real_tel,DeepFilterNet3,real056,2.9196,4.0517,2.6377
+ar_real_tel,RNNoise,real056,2.754,3.8107,2.4411
+ar_real_tel,Hush,real056,1.8037,3.8944,1.4955
+ar_real_tel,Unprocessed,real057,3.1057,3.4707,2.6542
+ar_real_tel,Unprocessed,real064,3.1347,3.6789,2.7511
+ar_real_tel,Hamsa Safi v1 Fast,real064,3.0287,4.1043,2.768
+ar_real_tel,Krisp VIVA Tel v2,real064,2.9585,3.9266,2.6598
+ar_real_tel,Krisp VIVA Pro v1,real064,2.8055,3.9342,2.5272
+ar_real_tel,Hush,real058,2.0167,3.843,1.8568
+ar_real_tel,Unprocessed,real059,3.3259,3.108,2.7063
+ar_real_tel,Hamsa Safi v1 Fast,real059,2.8139,3.9578,2.5706
+ar_real_tel,Krisp VIVA Tel v2,real059,2.9386,3.7318,2.6183
+ar_real_tel,Unprocessed,real056,3.0784,3.524,2.5905
+ar_real_tel,Hamsa Safi v1 Fast,real056,2.897,3.8578,2.5512
+ar_real_tel,Krisp VIVA Tel v2,real056,3.0676,3.8588,2.7205
+ar_real_tel,Krisp VIVA Pro v1,real056,2.6995,3.7051,2.3672
+ar_real_tel,RNNoise,real061,2.212,3.9527,1.9081
+ar_real_tel,Hush,real061,2.0797,3.8632,1.8928
+ar_real_tel,Unprocessed,real062,3.2953,3.4525,2.7712
+ar_real_tel,Hamsa Safi v1 Fast,real062,1.8805,3.9339,1.6774
+ar_real_tel,Krisp VIVA Pro v1,real059,3.0104,3.6479,2.6381
+ar_real_tel,DeepFilterNet3,real059,3.0747,3.8811,2.761
+ar_real_tel,RNNoise,real059,3.192,3.6587,2.7477
+ar_real_tel,Hush,real059,2.9463,3.8603,2.6524
+ar_real_tel,DeepFilterNet3,real064,2.7031,4.0284,2.4615
+ar_real_tel,RNNoise,real064,2.5873,4.0225,2.3317
+ar_real_tel,Hush,real064,2.257,3.9582,2.0609
+ar_real_tel,Unprocessed,real065,2.7295,3.181,2.2791
+ar_real_tel,Hush,real062,3.0024,3.8197,2.6511
+ar_real_tel,Unprocessed,real063,3.2106,3.6231,2.786
+ar_real_tel,Hamsa Safi v1 Fast,real063,3.1137,3.8733,2.7997
+ar_real_tel,Krisp VIVA Tel v2,real063,3.0015,3.9388,2.7073
+ar_real_tel,Unprocessed,real068,2.9263,3.4882,2.5259
+ar_real_tel,Hamsa Safi v1 Fast,real068,2.6319,4.0374,2.4355
+ar_real_tel,Krisp VIVA Tel v2,real068,2.2785,3.9438,2.0953
+ar_real_tel,Krisp VIVA Pro v1,real068,2.7365,3.9809,2.5156
+ar_real_tel,Hamsa Safi v1 Fast,real061,2.968,4.1031,2.7193
+ar_real_tel,Krisp VIVA Tel v2,real061,3.2796,4.137,3.0457
+ar_real_tel,Krisp VIVA Pro v1,real061,3.2086,4.0939,2.962
+ar_real_tel,DeepFilterNet3,real061,3.0178,4.0693,2.8005
+ar_real_tel,Krisp VIVA Pro v1,real063,3.0876,3.7357,2.6917
+ar_real_tel,DeepFilterNet3,real063,2.817,3.8484,2.4938
+ar_real_tel,RNNoise,real063,1.7771,3.8486,1.5156
+ar_real_tel,Hush,real063,1.9839,3.9098,1.7214
+ar_real_tel,DeepFilterNet3,real068,2.5162,3.9827,2.3248
+ar_real_tel,RNNoise,real068,2.5044,3.936,2.2851
+ar_real_tel,Hush,real068,2.6652,3.9672,2.3974
+ar_real_tel,Unprocessed,real069,3.47,3.5879,2.9958
+ar_real_tel,Hush,real066,2.6951,3.9449,2.4283
+ar_real_tel,Unprocessed,real067,3.2256,3.57,2.7982
+ar_real_tel,Hamsa Safi v1 Fast,real067,3.2158,4.1312,2.9689
+ar_real_tel,Krisp VIVA Tel v2,real067,2.6623,3.7221,2.3571
+ar_real_tel,Hamsa Safi v1 Fast,real069,3.3489,3.9288,3.0573
+ar_real_tel,Krisp VIVA Tel v2,real069,3.1636,3.9858,2.9015
+ar_real_tel,Krisp VIVA Pro v1,real069,3.2309,4.0109,2.9752
+ar_real_tel,DeepFilterNet3,real069,3.3754,3.8838,3.0414
+ar_real_tel,RNNoise,real065,2.0225,3.8935,1.8986
+ar_real_tel,Hush,real065,1.7755,3.8573,1.6638
+ar_real_tel,Unprocessed,real066,3.0197,3.6351,2.636
+ar_real_tel,Hamsa Safi v1 Fast,real066,2.9952,3.8868,2.7094
+ar_real_tel,Krisp VIVA Tel v2,real066,2.7581,3.8436,2.5071
+ar_real_tel,Krisp VIVA Pro v1,real066,3.0268,3.9301,2.75
+ar_real_tel,DeepFilterNet3,real066,2.769,3.9262,2.5141
+ar_real_tel,RNNoise,real066,2.9223,3.8415,2.6129
+ar_real_tel,Hamsa Safi v1 Fast,real065,2.7764,3.7725,2.4826
+ar_real_tel,Krisp VIVA Tel v2,real065,2.5613,3.0391,2.0474
+ar_real_tel,Krisp VIVA Pro v1,real065,2.4265,3.1043,1.9975
+ar_real_tel,DeepFilterNet3,real065,2.475,3.7456,2.2259
+ar_real_tel,Krisp VIVA Pro v1,real067,2.9264,3.6927,2.5776
+ar_real_tel,DeepFilterNet3,real067,3.2295,4.13,2.9837
+ar_real_tel,RNNoise,real067,1.9177,3.9598,1.7527
+ar_real_tel,Hush,real067,1.9279,3.7977,1.8025
+ar_real_tel,RNNoise,real069,3.2364,3.9243,2.9498
+ar_real_tel,Hush,real069,2.7022,3.6387,2.2964
+ar_real_tel,Unprocessed,real070,2.5671,3.3742,2.1843
+ar_real_tel,Hamsa Safi v1 Fast,real070,2.624,4.0118,2.4315
+ar_real_tel,Unprocessed,real072,3.133,3.5109,2.6672
+ar_real_tel,Hamsa Safi v1 Fast,real072,2.9163,3.9032,2.6325
+ar_real_tel,Krisp VIVA Tel v2,real072,3.1948,4.0542,2.9381
+ar_real_tel,Krisp VIVA Pro v1,real072,3.0341,3.8881,2.7247
+ar_real_tel,DeepFilterNet3,real072,3.074,3.8432,2.7364
+ar_real_tel,RNNoise,real072,3.0568,3.8014,2.7026
+ar_real_tel,Hush,real072,2.9665,3.9852,2.7196
+ar_real_tel,Unprocessed,real073,3.1186,2.8143,2.3063
+ar_real_tel,Hush,real070,2.2994,3.7637,2.0857
+ar_real_tel,Unprocessed,real071,3.3209,3.2091,2.6242
+ar_real_tel,Hamsa Safi v1 Fast,real071,3.1451,3.9577,2.8478
+ar_real_tel,Krisp VIVA Tel v2,real071,2.9337,3.9461,2.6519
+ar_real_tel,Hamsa Safi v1 Fast,real073,2.9796,4.05,2.724
+ar_real_tel,Krisp VIVA Tel v2,real073,2.542,3.6937,2.2593
+ar_real_tel,Krisp VIVA Pro v1,real073,2.6128,3.8157,2.3532
+ar_real_tel,DeepFilterNet3,real073,3.319,4.0597,3.0231
+ar_real_tel,Krisp VIVA Tel v2,real070,2.9912,4.0482,2.7767
+ar_real_tel,Krisp VIVA Pro v1,real070,2.8933,3.8675,2.6201
+ar_real_tel,DeepFilterNet3,real070,2.3131,3.932,2.0921
+ar_real_tel,RNNoise,real070,2.4644,3.8207,2.2353
+ar_real_tel,Krisp VIVA Pro v1,real071,3.0559,4.061,2.8073
+ar_real_tel,DeepFilterNet3,real071,3.1348,4.0288,2.8558
+ar_real_tel,RNNoise,real071,3.0125,3.9223,2.7224
+ar_real_tel,Hush,real071,1.6848,3.8942,1.4912
+ar_real_tel,RNNoise,real073,3.0282,3.6103,2.6076
+ar_real_tel,Hush,real073,2.8729,3.8163,2.4952
+ar_real_tel,Unprocessed,real074,3.0825,3.9225,2.7823
+ar_real_tel,Hamsa Safi v1 Fast,real074,2.6053,3.7988,2.3108
+ar_real_tel,Hush,real074,2.1002,3.6162,1.8549
+ar_real_tel,Unprocessed,real075,3.1128,3.66,2.6972
+ar_real_tel,Hamsa Safi v1 Fast,real075,3.142,3.864,2.7955
+ar_real_tel,Krisp VIVA Tel v2,real075,2.5059,3.6649,2.21
+ar_real_tel,Krisp VIVA Pro v1,real075,2.8394,3.5782,2.4349
+ar_real_tel,DeepFilterNet3,real075,3.0299,3.9427,2.7664
+ar_real_tel,RNNoise,real075,3.1278,3.7931,2.7793
+ar_real_tel,Hush,real075,2.5578,3.7821,2.2672
+ar_real_tel,Krisp VIVA Tel v2,real074,2.889,3.8036,2.5672
+ar_real_tel,Krisp VIVA Pro v1,real074,2.7584,3.7786,2.457
+ar_real_tel,DeepFilterNet3,real074,1.5069,3.7414,1.4194
+ar_real_tel,RNNoise,real074,1.6957,3.7935,1.4704
+ar_real_tel,Krisp VIVA Tel v2,real078,3.0828,3.9311,2.7884
+ar_real_tel,Krisp VIVA Pro v1,real078,3.0367,3.9263,2.7448
+ar_real_tel,DeepFilterNet3,real078,3.1362,4.0552,2.8999
+ar_real_tel,RNNoise,real078,2.1005,3.9516,1.8279
+ar_real_tel,Unprocessed,real080,3.0263,3.2172,2.4586
+ar_real_tel,Hamsa Safi v1 Fast,real080,2.8473,3.9963,2.5852
+ar_real_tel,Krisp VIVA Tel v2,real080,2.7806,3.8855,2.532
+ar_real_tel,Krisp VIVA Pro v1,real080,2.8556,3.6249,2.4935
+ar_real_tel,DeepFilterNet3,real080,3.1604,4.1271,2.9215
+ar_real_tel,RNNoise,real080,2.2759,3.9186,2.0914
+ar_real_tel,Hush,real080,2.694,4.0835,2.4684
+ar_real_tel,Unprocessed,real081,3.3104,3.4024,2.7286
+ar_real_tel,Hamsa Safi v1 Fast,real081,3.1005,4.1127,2.8794
+ar_real_tel,Krisp VIVA Tel v2,real081,3.1883,3.9329,2.8704
+ar_real_tel,Krisp VIVA Pro v1,real081,3.041,3.9958,2.7909
+ar_real_tel,DeepFilterNet3,real081,3.0526,4.1129,2.8052
+ar_real_tel,RNNoise,real077,2.7907,3.9174,2.5342
+ar_real_tel,Hush,real077,2.2709,3.8815,2.0264
+ar_real_tel,Unprocessed,real078,3.1623,3.4411,2.7104
+ar_real_tel,Hamsa Safi v1 Fast,real078,3.0634,4.0701,2.8247
+ar_real_tel,Unprocessed,real076,3.1366,3.344,2.6175
+ar_real_tel,Hamsa Safi v1 Fast,real076,3.0629,3.8979,2.7629
+ar_real_tel,Krisp VIVA Tel v2,real076,3.1212,3.9985,2.8452
+ar_real_tel,Krisp VIVA Pro v1,real076,3.143,3.9442,2.8392
+ar_real_tel,RNNoise,real081,3.1141,4.0902,2.8901
+ar_real_tel,Hush,real081,1.8822,3.9443,1.637
+ar_real_tel,Unprocessed,real082,2.7927,3.0747,2.23
+ar_real_tel,Hamsa Safi v1 Fast,real082,2.0567,4.0753,1.8907
+ar_real_tel,Krisp VIVA Tel v2,real082,2.4145,3.8116,2.162
+ar_real_tel,Krisp VIVA Pro v1,real082,2.473,3.7553,2.2167
+ar_real_tel,DeepFilterNet3,real082,1.9941,4.0091,1.8245
+ar_real_tel,RNNoise,real082,1.6354,3.8406,1.4774
+ar_real_tel,DeepFilterNet3,real076,2.8842,3.9891,2.6399
+ar_real_tel,RNNoise,real076,2.5817,4.0337,2.3594
+ar_real_tel,Hush,real076,2.0086,3.8902,1.6875
+ar_real_tel,Unprocessed,real077,2.7641,3.3606,2.325
+ar_real_tel,Hamsa Safi v1 Fast,real077,2.7598,4.0592,2.5576
+ar_real_tel,Krisp VIVA Tel v2,real077,2.557,3.8554,2.3122
+ar_real_tel,Krisp VIVA Pro v1,real077,2.6029,3.7609,2.3203
+ar_real_tel,DeepFilterNet3,real077,2.3798,3.992,2.1778
+ar_real_tel,Krisp VIVA Pro v1,real079,2.8656,3.8865,2.5651
+ar_real_tel,DeepFilterNet3,real079,3.1642,4.0882,2.9024
+ar_real_tel,RNNoise,real079,2.8163,3.8748,2.5287
+ar_real_tel,Hush,real079,2.9841,4.0782,2.6964
+ar_real_tel,Hush,real082,1.4737,3.6449,1.3799
+ar_real_tel,Unprocessed,real083,3.2777,3.5721,2.8015
+ar_real_tel,Hamsa Safi v1 Fast,real083,3.3105,4.0741,3.0363
+ar_real_tel,Krisp VIVA Tel v2,real083,3.2718,4.0185,2.989
+ar_real_tel,Hush,real078,2.6572,3.9512,2.3973
+ar_real_tel,Unprocessed,real079,2.8245,3.394,2.3835
+ar_real_tel,Hamsa Safi v1 Fast,real079,2.9415,4.0186,2.6849
+ar_real_tel,Krisp VIVA Tel v2,real079,2.9987,4.0164,2.7275
+ar_real_tel,Hamsa Safi v1 Fast,real085,2.8327,3.6896,2.4577
+ar_real_tel,Krisp VIVA Tel v2,real085,2.8254,3.7814,2.4854
+ar_real_tel,Krisp VIVA Pro v1,real085,2.7198,3.8736,2.4209
+ar_real_tel,DeepFilterNet3,real085,2.7168,3.6317,2.2855
+ar_real_tel,RNNoise,real085,2.7993,3.6127,2.3338
+ar_real_tel,Hush,real085,1.4419,3.7403,1.2902
+ar_real_tel,Unprocessed,real086,2.7011,3.4851,2.3291
+ar_real_tel,Hamsa Safi v1 Fast,real086,2.8213,4.0547,2.6148
+ar_real_tel,Krisp VIVA Tel v2,real086,2.795,3.9791,2.5595
+ar_real_tel,Krisp VIVA Pro v1,real086,2.7891,4.0487,2.588
+ar_real_tel,DeepFilterNet3,real086,2.3551,3.8252,2.1345
+ar_real_tel,RNNoise,real086,2.2619,3.7956,2.0174
+ar_real_tel,Krisp VIVA Pro v1,real083,3.2495,3.997,2.9559
+ar_real_tel,DeepFilterNet3,real083,3.312,4.0984,3.0504
+ar_real_tel,RNNoise,real083,1.8486,3.8724,1.6425
+ar_real_tel,Hush,real083,2.4398,3.9173,2.2098
+ar_real_tel,DeepFilterNet3,real084,2.6432,3.7581,2.3641
+ar_real_tel,RNNoise,real084,2.3815,3.8421,1.8498
+ar_real_tel,Hush,real084,1.9224,3.8511,1.56
+ar_real_tel,Unprocessed,real085,2.9655,3.5838,2.5029
+ar_real_tel,Unprocessed,real088,2.8986,3.476,2.4766
+ar_real_tel,Hamsa Safi v1 Fast,real088,2.866,3.7799,2.5471
+ar_real_tel,Krisp VIVA Tel v2,real088,2.7406,3.9274,2.4815
+ar_real_tel,Krisp VIVA Pro v1,real088,2.7776,3.7502,2.476
+ar_real_tel,Unprocessed,real084,3.1084,3.4095,2.5867
+ar_real_tel,Hamsa Safi v1 Fast,real084,2.1708,3.8586,1.8963
+ar_real_tel,Krisp VIVA Tel v2,real084,2.9546,3.9489,2.6897
+ar_real_tel,Krisp VIVA Pro v1,real084,2.7066,3.7449,2.3913
+ar_real_tel,DeepFilterNet3,real088,2.9999,3.8845,2.7005
+ar_real_tel,RNNoise,real088,2.5423,3.7939,2.2776
+ar_real_tel,Hush,real088,2.4209,3.9708,2.2102
+ar_real_tel,Unprocessed,real089,2.9476,3.3994,2.4922
+ar_real_tel,Hush,real086,2.057,3.9387,1.8984
+ar_real_tel,Unprocessed,real087,3.2177,3.4177,2.6615
+ar_real_tel,Hamsa Safi v1 Fast,real087,3.1337,4.0222,2.8338
+ar_real_tel,Krisp VIVA Tel v2,real087,2.8237,3.8551,2.5205
+ar_real_tel,RNNoise,real089,1.7051,3.8409,1.5703
+ar_real_tel,Hush,real089,2.8303,3.9617,2.5754
+ar_real_tel,Unprocessed,real090,2.7986,3.655,2.4743
+ar_real_tel,Hamsa Safi v1 Fast,real090,3.0518,4.1755,2.857
+ar_real_tel,Krisp VIVA Pro v1,real087,2.6501,3.8016,2.3455
+ar_real_tel,DeepFilterNet3,real087,2.747,3.9951,2.4792
+ar_real_tel,RNNoise,real087,2.9394,3.6174,2.4721
+ar_real_tel,Hush,real087,2.3291,4.0494,2.0882
+ar_real_tel,Hamsa Safi v1 Fast,real089,3.0928,3.9799,2.8051
+ar_real_tel,Krisp VIVA Tel v2,real089,2.8848,3.7384,2.5375
+ar_real_tel,Krisp VIVA Pro v1,real089,2.951,3.8045,2.6203
+ar_real_tel,DeepFilterNet3,real089,3.0277,3.9622,2.7476
+ar_real_tel,Krisp VIVA Tel v2,real094,3.0731,3.8068,2.7037
+ar_real_tel,Krisp VIVA Pro v1,real094,3.1425,3.8897,2.8059
+ar_real_tel,DeepFilterNet3,real094,2.63,4.0957,2.4228
+ar_real_tel,RNNoise,real094,2.0584,3.7512,1.9031
+ar_real_tel,RNNoise,real093,2.4637,3.0833,1.9016
+ar_real_tel,Hush,real093,2.1918,3.8511,1.9983
+ar_real_tel,Unprocessed,real094,3.2227,3.374,2.6891
+ar_real_tel,Hamsa Safi v1 Fast,real094,2.7943,3.9933,2.5089
+ar_real_tel,Hamsa Safi v1 Fast,real093,3.1526,3.7834,2.7917
+ar_real_tel,Krisp VIVA Tel v2,real093,2.8904,3.5265,2.4173
+ar_real_tel,Krisp VIVA Pro v1,real093,2.8792,3.6788,2.5147
+ar_real_tel,DeepFilterNet3,real093,3.0351,3.8025,2.6938
+ar_real_tel,Krisp VIVA Tel v2,real090,2.7773,3.9707,2.566
+ar_real_tel,Krisp VIVA Pro v1,real090,2.7771,4.02,2.562
+ar_real_tel,DeepFilterNet3,real090,2.9963,4.0801,2.78
+ar_real_tel,RNNoise,real090,1.9625,3.9991,1.6883
+ar_real_tel,Hush,real094,2.1453,3.7987,1.929
+ar_real_tel,Unprocessed,real095,3.1444,3.7743,2.777
+ar_real_tel,Hamsa Safi v1 Fast,real095,3.133,4.1,2.8706
+ar_real_tel,Krisp VIVA Tel v2,real095,3.1076,3.9073,2.7797
+ar_real_tel,Hush,real090,2.3376,3.9391,2.1247
+ar_real_tel,Unprocessed,real091,3.2161,3.5257,2.7509
+ar_real_tel,Hamsa Safi v1 Fast,real091,3.1544,3.9047,2.8329
+ar_real_tel,Krisp VIVA Tel v2,real091,2.9425,3.86,2.6423
+ar_real_tel,Krisp VIVA Pro v1,real091,2.8193,3.7748,2.5027
+ar_real_tel,DeepFilterNet3,real091,3.1532,4.0259,2.8842
+ar_real_tel,RNNoise,real091,3.1014,3.6028,2.6596
+ar_real_tel,Hush,real091,3.02,4.0647,2.7853
+ar_real_tel,Krisp VIVA Pro v1,real095,3.0647,3.8553,2.7244
+ar_real_tel,DeepFilterNet3,real095,3.1012,4.1544,2.8518
+ar_real_tel,RNNoise,real095,2.5237,3.8288,2.2746
+ar_real_tel,Hush,real095,2.3352,3.9672,2.1534
+ar_real_tel,Unprocessed,real096,3.1517,3.5975,2.7381
+ar_real_tel,Hamsa Safi v1 Fast,real096,3.0962,4.1108,2.8507
+ar_real_tel,Krisp VIVA Tel v2,real096,2.9976,4.0066,2.7378
+ar_real_tel,Krisp VIVA Pro v1,real096,2.7355,4.0015,2.5062
+ar_real_tel,DeepFilterNet3,real092,3.0713,4.032,2.8183
+ar_real_tel,RNNoise,real092,2.8745,3.9705,2.624
+ar_real_tel,Hush,real092,2.5214,4.0575,2.2943
+ar_real_tel,Unprocessed,real093,3.1328,3.6479,2.7126
+ar_real_tel,Unprocessed,real092,3.2036,3.5211,2.7075
+ar_real_tel,Hamsa Safi v1 Fast,real092,3.108,4.1049,2.8724
+ar_real_tel,Krisp VIVA Tel v2,real092,3.0656,4.0803,2.8385
+ar_real_tel,Krisp VIVA Pro v1,real092,2.9981,3.8682,2.6788
+ar_real_tel,Krisp VIVA Tel v2,real098,2.9606,3.6291,2.5546
+ar_real_tel,Krisp VIVA Pro v1,real098,2.8852,3.9278,2.6229
+ar_real_tel,DeepFilterNet3,real098,3.0597,4.1278,2.8353
+ar_real_tel,RNNoise,real098,3.1412,3.7649,2.7756
+ar_real_tel,Krisp VIVA Pro v1,real099,3.3688,4.0819,3.069
+ar_real_tel,DeepFilterNet3,real099,3.4696,4.1773,3.2237
+ar_real_tel,RNNoise,real099,3.44,4.1342,3.1583
+ar_real_tel,Hush,real099,2.8731,3.7774,2.4144
+ar_real_tel,Hush,real098,2.4797,3.8105,2.1443
+ar_real_tel,Unprocessed,real099,3.506,3.6666,2.9751
+ar_real_tel,Hamsa Safi v1 Fast,real099,3.5007,4.1787,3.2383
+ar_real_tel,Krisp VIVA Tel v2,real099,3.4259,4.1242,3.1397
+ar_real_tel,DeepFilterNet3,real096,3.0697,4.1118,2.8303
+ar_real_tel,RNNoise,real096,1.8283,4.0023,1.6507
+ar_real_tel,Hush,real096,1.9962,3.9324,1.7499
+ar_real_tel,Unprocessed,real097,3.2093,3.766,2.8182
+ar_real_tel,RNNoise,real097,3.2848,4.0788,3.0131
+ar_real_tel,Hush,real097,2.6541,3.9899,2.4309
+ar_real_tel,Unprocessed,real098,3.5283,2.8965,2.6401
+ar_real_tel,Hamsa Safi v1 Fast,real098,3.2936,4.0826,3.063
+ar_real_tel,Hamsa Safi v1 Fast,real097,3.0398,3.995,2.7774
+ar_real_tel,Krisp VIVA Tel v2,real097,2.9561,3.9098,2.6598
+ar_real_tel,Krisp VIVA Pro v1,real097,3.1791,3.8847,2.8352
+ar_real_tel,DeepFilterNet3,real097,3.2351,3.891,2.8836

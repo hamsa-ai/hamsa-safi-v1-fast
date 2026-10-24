@@ -1,9 +1,10 @@
 # Hamsa Safi v1 Fast
 
 **Real-time noise suppression built for Arabic voice.** `hamsa-safi-v1-fast` is a streaming speech-enhancement model from
-Hamsa AI for voice agents, contact centres and VoIP. It processes 10 ms frames on a single CPU core. In our benchmark it gives
-**the highest perceived quality of any tested system on Arabic speech**, over both phone lines and wideband VoIP, ahead of
-Krisp, DeepFilterNet3, RNNoise and Hush. On Arabic wideband it is best or tied-best on every metric.
+Hamsa AI for voice agents, contact centres and VoIP. It processes 10 ms frames on a single CPU core. In our benchmark it delivers
+**higher perceived quality than Krisp, Hush and RNNoise on Arabic speech in every condition we tested**: phone lines and
+wideband VoIP, synthetic mixtures and real recordings. It also gives **the highest perceived quality (DNSMOS) on Arabic phone audio of any system tested**,
+including DeepFilterNet3, and is best or tied-best on every metric on synthetic Arabic wideband.
 
 ### ▶ [Listen to the samples and explore the interactive benchmark](https://hamsa-ai.github.io/hamsa-safi-v1-fast/)
 
@@ -91,6 +92,26 @@ Per-clip scores, SNR and noise-type breakdowns, and paired-bootstrap 95% interva
 [`results/`](results/). On phone audio, Krisp Tel v2 keeps a small lead on the reference-based PESQ/STOI metrics, mostly on
 clips where the noise is other people talking. Safi leads on every perceptual (DNSMOS) metric.
 
+## Real-world recordings
+
+Synthetic mixtures are controlled; real calls are not. We also ran every system on **100 genuinely noisy Arabic recordings** from
+Mozilla Common Voice (CC0): crowd recordings made on people's own laptops and phones, with real rooms, fans, traffic and echo,
+and no added noise. These are the noisiest 100 of 1,500 randomly scanned clips, one per speaker. They're scored with DNSMOS P.835, since no clean
+reference exists, both as recorded and through a G.711 phone channel.
+
+| System | DNSMOS OVRL (16 kHz) | DNSMOS OVRL (phone channel) |
+|---|---:|---:|
+| **Hamsa Safi v1 Fast** | 2.89 | **2.66** |
+| Krisp VIVA Tel v2 | 2.78 | 2.58 |
+| Krisp VIVA Pro v1 | 2.76 | 2.59 |
+| DeepFilterNet3 | **2.93** | 2.59 |
+| RNNoise | 2.75 | 2.22 |
+| Hush | 2.67 | 2.11 |
+| Original recording | 2.55 | 2.55 |
+
+Safi is rated higher than Krisp Tel v2 on **68%** of real recordings (16 kHz) and **71%** over the phone channel.
+Listen to examples on the [interactive page](https://hamsa-ai.github.io/hamsa-safi-v1-fast/).
+
 ## Deployment
 
 | System | Streaming | CPU ms per 10 ms frame | Delay |
@@ -118,7 +139,7 @@ Single thread, AMD EPYC 7R32. Delay measured by cross-correlation on the benchma
 
 ```
 docs/                 GitHub Pages site (interactive charts + A/B listening)
-  samples/<clip>/     clean, noisy and each system's output, loudness-matched to -26 dBFS
+  samples/<clip>/     clean, noisy and each system's output at one common gain per clip (true output level)
   assets/             overview chart and data.json
 results/
   summary.csv         per condition × system means
@@ -126,7 +147,8 @@ results/
   by_noise.csv        breakdown by noise type
   by_snr.csv          breakdown by input SNR
   significance.csv    paired-bootstrap 95% CIs and per-clip win rates (Safi vs each system)
-  testset_*_manifest  exact FLEURS utterance + MS-SNSD noise file + SNR for every clip (rebuildable)
+  per_clip_real.csv   DNSMOS scores on the real Common Voice recordings
+  testset_*_manifest  exact source files (FLEURS + MS-SNSD noise + SNR; Common Voice clip ids) for every clip
 ```
 
 ## Access
